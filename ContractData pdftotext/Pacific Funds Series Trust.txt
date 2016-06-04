@@ -1,0 +1,2969 @@
+6/3/2016
+
+Pacific Funds Series Trust
+
+N­CSR 1 d144966dncsr.htm PACIFIC FUNDS SERIES TRUST
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM N­CSR
+CERTIFIED SHAREHOLDER REPORT OF REGISTERED MANAGEMENT INVESTMENT
+COMPANIES
+Investment Company Act file number     811­10385            
+Pacific Funds Series Trust
+
+ 
+
+(Exact name of registrant as specified in charter)
+700 Newport Center Drive, P.O. Box 7500
+Newport Beach, CA 92660
+
+ 
+
+(Address of principal executive offices) (Zip code)
+Robin S. Yonis
+Vice President, General Counsel and Assistant Secretary of Pacific Funds Series Trust
+700 Newport Center Drive, P.O. Box 9000
+Newport Beach, CA 92660
+
+ 
+
+(Name and address of agent for service)
+Copies to:
+Anthony H. Zacharski, Esq.
+Dechert LLP
+90 State House Square
+Hartford, CT 06103
+Registrant’s telephone number, including area code:     949­219­6767
+Date of fiscal year end: March 31
+Date of reporting period: March 31, 2016
+Form  N­CSR  is  to  be  used  by  management  investment  companies  to  file  reports  with  the  Commission  not  later  than  10  days  after  the
+transmission  to  stockholders  of  any  report  that  is  required  to  be  transmitted  to  stockholders  under  Rule  30e­1  under  the  Investment
+Company  Act  of  1940  (17  CFR  270.30e­1).  The  Commission  may  use  the  information  provided  on  Form  N­CSR  in  its  regulatory,
+disclosure review, inspection, and policymaking roles.
+A registrant is required to disclose the information specified by Form N­CSR, and the Commission will make this information public. A
+registrant is not required to respond to the collection of information contained in Form N­CSR unless the Form displays a currently valid
+Office  of  Management  and  Budget  (“OMB”)  control  number.  Please  direct  comments  concerning  the  accuracy  of  the  information
+collection burden estimate and any suggestions for reducing the burden to Secretary, Securities and Exchange Commission, 100 F Street,
+NE, Washington, DC 20549. The OMB has reviewed this collection of information under the clearance requirements of 44 U.S.C. § 3507.
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+1/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+Item 1. Reports to Stockholders.
+The following is a copy of the report transmitted to stockholders pursuant to Rule 30e­1 under the Act (17 CFR 270 30e­1).
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+2/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+March 31, 2016
+
+ANNUAL REPORT
+ 
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+3/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS
+ANNUAL REPORT
+AS OF MARCH 31, 2016
+ 
+
+TABLE OF CONTENTS
+Letter to Shareholders
+Performance Discussion
+Schedules of Investments
+Financial Statements:
+Statements of Assets and Liabilities
+Statements of Operations
+Statements of Changes in Net Assets
+Financial Highlights
+Notes to Financial Statements
+Report of Independent Registered Public Accounting Firm
+Other Tax Information
+Disclosure of Fund Expenses
+Trustee and Officers Information
+Approval of Investment Advisory and Sub­Advisory Agreements
+Where to Go for More Information
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+A­1
+A­2
+B­1
+C­1
+C­4
+C­8
+C­14
+D­1
+E­1
+F­1
+F­2
+F­5
+F­8
+F­24
+
+4/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS
+ 
+
+Dear Shareholders:
+We are pleased to share with you the Annual Report dated March 31, 2016 for Pacific Funds Series Trust (“Pacific Funds” or the “Trust”). Pacific Funds is comprised of
+42 Funds, 18 of which are included in this report (each individually, a “Fund” and collectively, the “Funds”) and are available for direct investment. Pacific Life Fund Advisors
+LLC (PLFA), as Adviser to the Funds, manages Pacific FundsSM Portfolio Optimization Conservative, Pacific FundsSM Portfolio Optimization Moderate­Conservative, Pacific
+FundsSM Portfolio Optimization Moderate, Pacific FundsSM Portfolio Optimization Growth, Pacific FundsSM Portfolio Optimization Aggressive­Growth (together, the “Portfolio
+Optimization Funds”) and Pacific FundsSM Diversified Alternatives. Each of the Portfolio Optimization Funds and Pacific Funds Diversified Alternatives is an asset allocation
+“Fund of Funds” and invests in certain other Funds (PF Underlying Funds) of the Trust. PLFA supervises the management of the PF Underlying Funds which are only
+available for investment by the Portfolio Optimization Funds and Pacific Funds Diversified Alternatives and are included in a separate PF Underlying Funds Annual Report.
+Please see “Where to Go for More Information” for instructions on how to obtain the PF Underlying Funds’ Annual Report. PLFA also does business under the name “Pacific
+Asset Management” and manages Pacific FundsSM Short Duration Income, Pacific FundsSM Core Income, Pacific FundsSM Strategic Income, Pacific FundsSM Floating Rate
+Income, Pacific FundsSM Limited Duration High Income, and Pacific FundsSM High Income under that name.
+Pacific FundsSM Large­Cap, Pacific FundsSM Large­Cap Value, Pacific FundsSM Small/Mid­Cap, Pacific FundsSM Small­Cap, Pacific FundsSM Small­Cap Value and Pacific
+FundsSM Small­Cap Growth (together, the “PF U.S. Equity Funds”) commenced operations on January 11, 2016. Each PF U.S. Equity Fund acquired the assets of and
+assumed the performance, financial and other historical information of the Rothschild U.S. Large­Cap Core Fund, Rothschild U.S. Large­Cap Value Fund, Rothschild U.S.
+Small/Mid­Cap Core Fund, Rothschild U.S. Small­Cap Core Fund, Rothschild U.S. Small­Cap Value Fund, and Rothschild U.S. Small­Cap Growth Fund, respectively, each a
+series of Professionally Managed Portfolios (each a “Predecessor Fund,” together the “Predecessor Funds”), in reorganization transactions that occurred on that same date.
+Accordingly, information provided in this report for the PF U.S. Equity Funds for periods prior to January 11, 2016 is that of the Predecessor Funds. The PF U.S. Equity
+Funds changed their financial reporting and tax fiscal year end from November 30 to March 31, effective for the fiscal year ended March 31, 2016. Each PF U.S. Equity
+Fund’s investment objectives (goals), policies, guidelines, and restrictions are substantially the same as those of its respective Predecessor Fund. PLFA has retained
+Rothschild Asset Management Inc. to manage the PF U.S. Equity Funds.
+ 
+
+The Adviser, Pacific Asset Management and Rothschild Asset Management Inc. (together, the “Managers”) and their Funds as of March 31, 2016 are listed below:
+Manager
+
+  
+  
+  
+
+Pacific Life Fund Advisors LLC (PLFA)
+
+  
+  
+  
+  
+  
+  
+
+Pacific Asset Management
+
+  
+  
+  
+  
+  
+  
+
+Rothschild Asset Management Inc. (Rothschild)
+
+  
+  
+  
+  
+
+Fund
+Pacific FundsSM Portfolio Optimization Conservative
+Pacific FundsSM Portfolio Optimization Moderate­Conservative
+Pacific FundsSM Portfolio Optimization Moderate
+Pacific FundsSM Portfolio Optimization Growth
+Pacific FundsSM Portfolio Optimization Aggressive­Growth
+Pacific FundsSM Diversified Alternatives
+Pacific FundsSM Short Duration Income
+Pacific FundsSM Core Income
+Pacific FundsSM Strategic Income
+Pacific FundsSM Floating Rate Income
+Pacific FundsSM Limited Duration High Income
+Pacific FundsSM High Income
+Pacific FundsSM Large­Cap
+Pacific FundsSM Large­Cap Value
+Pacific FundsSM Small/Mid­Cap
+Pacific FundsSM Small­Cap
+Pacific FundsSM Small­Cap Value
+Pacific FundsSM Small­Cap Growth
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+Page
+Number
+A­5
+A­7
+A­9
+A­11
+A­13
+A­14
+A­15
+A­16
+A­17
+A­18
+A­19
+A­20
+A­21
+A­22
+A­23
+A­24
+A­25
+A­26
+
+We appreciate your confidence in the Trust and look forward to serving your financial needs in the years to come.
+Sincerely,
+ 
+
+James T. Morris
+Chairman of the Board
+Pacific Funds Series Trust
+ 
+
+  
+  
+  
+  
+
+Mary Ann Brown
+Chief Executive Officer
+Pacific Funds Series Trust
+
+A­1
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+5/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION
+ 
+
+This Annual Report is provided for the general information of investors with beneficial interests in the Trust. This report is not authorized for distribution to prospective
+investors unless preceded or accompanied by a current Trust prospectus, as supplemented, which contains information about the Trust and each of its Funds, including their
+investment objectives, risks, charges and expenses. You should read the prospectus carefully before investing. There is no assurance that a Fund will achieve its investment
+objective. Each Fund is subject to market risk. The net asset value (NAV) of a Fund changes as the value of its assets go up or down. The value of a Fund’s shares will
+fluctuate, and when redeemed, may be worth more or less than their original cost. The total return for each Fund includes reinvestment of all dividends and capital gain
+distributions, if any, and does not include deductions of any applicable sales charges. Past performance is not predictive of future performance.
+This report shows you the performance of the Funds compared to benchmark indices. Index performance is provided for illustrative and comparative purposes only and
+does not predict or depict the performance of the Funds. Indices are unmanaged, do not incur transaction costs, do not include fees and expenses, and cannot be purchased
+directly by investors. Index returns include reinvested dividends.
+The composite benchmarks for the Portfolio Optimization Funds are composed of up to four broad­based indices. The percentage amounts of each broad­based index
+within each composite benchmark are based on each Fund’s target asset class allocations in effect during the reporting period. The percentages attributed to a broad­based
+index within a composite benchmark will change if a Fund’s target asset class allocations change.
+PLFA has written the general market conditions commentary, which expresses PLFA’s opinions and views on how the market generally performed for the year ended
+March 31, 2016. PLFA does business under the name “Pacific Asset Management” and manages the Pacific Funds Short Duration Income, Pacific Funds Core Income,
+Pacific Funds Strategic Income, Pacific Funds Floating Rate Income, Pacific Funds Limited Duration High Income, Pacific Funds High Income Funds under that name.
+All views are subject to change at any time based upon market or other conditions, and the Trust, its Adviser, Pacific Asset Management and Rothschild Asset
+Management Inc. disclaim any responsibility to update such views. Any references to “we”, “I”, or “ours” are references to the Managers. Any sectors referenced are provided
+by the applicable Manager and could be different from the sectors listed in the Schedules of Investments if obtained from another source. The Managers may include
+statements that constitute “forward­looking statements” under the United States (U.S.) securities laws. Forward­looking statements include information concerning possible or
+assumed future results of the Trust’s investment operations, asset levels, earnings, expenses, industry or market conditions, regulatory developments and other aspects of the
+Trust’s operations or general economic conditions. In addition, when used in this report, predictive verbs such as “believes”, “expects”, “anticipates”, “intends”, “plans”,
+“estimates”, “projects” and future or conditional verbs such as “will”, “may”, “could”, “should”, and “would”, or any other statement that necessarily depends on future events,
+are intended to identify forward­ looking statements. Forward­looking statements are not guarantees of performance or economic results. They involve risks, uncertainties
+and assumptions. Although such statements are based on expectations that the Managers believe to be reasonable, actual results may differ materially from expectations.
+Investors must not rely on any forward­looking statements.
+In connection with any forward­looking statements and any investment in the Trust, investors should carefully consider the investment objectives, policies and risks
+described in the Trust’s current prospectus, as supplemented, and Statement of Additional Information, as supplemented, as filed with the Securities and Exchange
+Commission (SEC), which may be obtained from the SEC’s website at www.sec.gov.
+Market Conditions (for the year ended March 31, 2016)
+Executive Summary
+Global equity markets nervously bounced around during the reporting period, but most of the damage dissipated by the end of the reporting period. This bout of market
+volatility stemmed primarily from three main themes: China, oil and central banks. While concerns of a slowing China and plunging oil prices caused markets to tumble earlier
+in the reporting period, signs of stabilization and a more dovish Federal Reserve System (Fed) eased some fears.
+On top of experiencing a manufacturing slowdown, the economy in China stumbled upon one difficulty after another. The Chinese stock market experienced significant
+volatility over the past several quarters. After a sudden surge in the earlier part of 2015, which was fueled by excessive use of margin debt, the Chinese stock market went
+into correction mode that started in June 2015. In an attempt to control market volatility, Chinese regulators initiated circuit breakers that halted and closed the market when it
+fell by 5% and 7%, respectively, in one day. The plan backfired as market participants rushed to exit when the market began approaching these levels, which only exacerbated
+the selloff. Investors around the world interpreted the wild selloff as a crisis brewing in China. Regulators quickly terminated the circuit breakers.
+Investors also focused on the price of oil as the Organization of Petroleum Exporting Countries’ (OPEC) reluctance to cut back production led to growing concerns over
+the global slowdown and potential for rising default levels. In fact, the correlation between oil prices and equity markets has spiked in recent quarters as they began to move in
+tandem. Amid the environment of unsustainably low oil prices, sovereign wealth funds of oil producing nations began liquidating their assets, which put further downward
+pressure on stocks.
+The monetary stimulus policies of central banks continued to impact markets—both positively and negatively. While earlier stimulus announcements in Europe and Japan
+had helped lift their respective markets, investors generally reacted adversely to the announcement of negative interest rates. Central banks have been resorting to
+unconventional methods to provide life support to struggling economies. Such attempts have only increased uncertainty as fears of instability mounted. In the U.S., investors
+clenched onto every word from the Fed. A dovish statement drove equity markets higher, while a hawkish tone pulled them down.
+ 
+
+A­2
+See benchmark definitions on A­27 and A­28
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+6/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Fixed Income
+The broad domestic bond market (as defined by the Barclays U.S. Aggregate Bond Index) returned 1.96% over the reporting period. Long­term Treasury bonds were
+among the top performers as the 10­year Treasury yield fell. Interest rates came down as expectations of the next Fed hike were pushed back. Expectations of a delay in Fed
+hikes also caused the U.S. dollar to fall during the first quarter of 2016 after rising during the prior couple of quarters. Emerging markets debt benefitted from the depreciating
+U.S. dollar and performed well over reporting period. On the other hand, high yield bonds faced headwinds as concerns about the energy sector contributed to broadly rising
+credit spreads, which move in the opposite direction as prices.
+Domestic Equity
+Domestic equities regained positive territory after going through two corrections, with the S&P 500 Index (a common measurement of the broad U.S. equity market)
+gaining 1.78% over the reporting period. Large cap stocks outpaced small cap stocks, while growth outperformed value. Value styles tend to have a higher exposure to the
+energy sector, which was a drag on performance. Investors favored equities with high dividend yields as interest rates fell. Real estate investment trusts (REITs), which are
+associated with a high dividend payout, were thus bid up in this environment.
+International Equity
+International equities generally struggled during the reporting period, but performances have been relatively mixed. Foreign developed markets (as defined by the broad­
+based MSCI EAFE Index) returned ­8.27% over the reporting period. International small­cap stocks (as defined by the S&P Developed Ex­U.S. SmallCap Index), on the
+other hand, were positive. Much of this disparity stemmed from smaller financial stocks holding up much better than their larger counterparts during this environment of
+unconventional central bank actions. Emerging market equities also struggled over the reporting period.
+Outlook
+We believe that the outlook for domestic equities depends on how quickly earnings can rebound from recent misses, whether the U.S. economy can continue its modest
+growth, and most of all on how the Fed communicates its intentions for hiking rates. Two of the biggest factors for earnings are developments in energy and financials, as low
+oil prices have affected U.S. producers and persistently low interest rates have squeezed profit margins at big U.S. banks. We anticipate that the global move toward the
+balance of oil supply and demand should continue to provide a boost to rebounding energy shares in the U.S., and believe that financials in turn should benefit from rate hikes
+by the Fed expected later in 2016. The market is increasingly sensitive to the language of the Fed’s statements, and any missteps or surprises from the Fed may have a
+negative impact. Additionally, the strong U.S. dollar has contributed to falling exports and profits. However, the dollar has recently depreciated and could fall further. A weaker
+dollar may provide some support for U.S. exports, which could be a tailwind for U.S. companies and profits.
+International equities look mixed as the markets adjust to economic numbers coming out of Europe and Japan. While there are some headwinds for emerging markets,
+we feel that valuations have now fallen to attractive levels. There have been signs of opportunity in emerging markets from a continued rebound in commodity prices and
+weakening of the U.S. dollar, which provide some breathing room on their export revenues and ability to pay their U.S. dollar­denominated debts. We expect to see continued
+overseas volatility as these markets digest the effects of novel central bank stimulus efforts and anticipate the potential for gains as international markets recover from their
+recent lows.
+We believe the outlook for fixed income hinges on the pace of rate hikes and the anticipation of further equity market volatility. Bonds with long durations appear to be the
+riskier bet in the face of Fed tightening, but recent stock market volatility showed the role fixed income plays as the safe­haven asset. The reduction in projected rate hikes
+also reduces the downside for fixed income. On the other hand, credit spreads have widened, even outside the troubled energy sector, and government bonds are priced at
+expensive levels, two factors that could provide headwinds to fixed income.
+Alternatives could provide some support if volatility continues to be persistent. Central bank divergence between the U.S., the Eurozone, Japan and the United Kingdom
+(U.K.) has provided ample opportunities for currency managers to buck the downturn in equities and generate uncorrelated returns. The differing direction on interest rates
+and currencies provides the opportunity for positive returns in global macro type strategies. Disparities in the marketplace present opportunities for long/short strategies. Given
+the level of uncertainties throughout the globe, a well­diversified approach may provide some protection.
+Performance of the Portfolio Optimization Funds and Pacific Funds Diversified Alternatives
+The performance of the Portfolio Optimization Funds and Pacific Funds Diversified Alternatives are composites of the performance of each of the PF Underlying Funds in
+which each invests (which may include bonds, domestic and/or international equities). The Portfolio Optimization Funds are compared to two broad­based indices; however,
+to further assist in performance comparisons, composite benchmarks were constructed for the Portfolio Optimization Funds. Each composite benchmark is comprised of up to
+four broad­based indices shown below. The composite benchmarks were constructed with allocations to each asset class that correspond to the target allocations for Portfolio
+Optimization Funds. However, the actual allocations of any Portfolio Optimization Fund will naturally vary from these targets as a result of market
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­3
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+7/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+performance over time. Pacific Funds Diversified Alternatives does not have a composite benchmark. The one­year performance for these broad­based indices is shown in
+the following table.
+ 
+
+Broad Based
+Indices
+S&P 500 Index (U.S. Stocks)
+Morgan Stanley Capital International (MSCI) EAFE Index (Net) (International Stocks)
+Barclays U.S. Aggregate Bond Index (Fixed Income)
+BofA Merrill Lynch U.S. 3­Month T­Bill Index (Cash)
+ 
+ 
+
+  
+  
+  
+  
+  
+ 
+
+One Year
+Performance
+(as of 3­31­16)
+ 
+ 
+1.78%  
+ 
+(8.27%) 
+ 
+1.96%  
+ 
+0.12%  
+See benchmark definitions on A­27 and A­28
+
+A­4
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+8/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Pacific Funds Portfolio Optimization Conservative (managed by Pacific Life Fund Advisors LLC)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds Portfolio Optimization Conservative’s Class A (without sales charge) returned ­1.73%, compared to a 1.96% return for
+the Barclays U.S. Aggregate Bond Index, a 1.78% return for the S&P 500 Index and a 1.14% return for the Pacific Funds Portfolio Optimization Conservative Composite
+Benchmark (Current). The Fund’s composite benchmark was changed on or about July 29, 2015 due to new asset class allocations. Both the former and current composite
+benchmarks are presented below.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Class A shares of the Fund to its benchmarks for the ten­year period ended March 31, 2016. For comparison purposes,
+the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class B, C, R and Advisor Class shares will vary due to differences in fees and sales
+charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+
+ 
+
+ 
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Fund’s Class B without sales charge
+Fund’s Class B with maximum sales charge
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Fund’s Class R without sales charge
+Barclays U.S. Aggregate Bond Index
+S&P 500 Index
+Pacific Funds Portfolio Optimization Conservative
+Composite Benchmark (Current)
+Pacific Funds Portfolio Optimization Conservative
+Composite Benchmark (Former)
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+1 Year    
+ (1.73%)  
+ (7.12%)  
+ (2.51%)  
+ (7.24%)  
+ (2.51%)  
+ (3.46%)  
+ (2.05%)  
+  1.96%   
+  1.78%   
+
+5 Years    
+  2.99%    
+  1.83%    
+  2.25%    
+  1.90%    
+  2.27%    
+  2.27%    
+  2.74%    
+  3.78%    
+ 11.58%    
+
+10 Years  
+  4.21%  
+  3.62%  
+  3.64%  
+  3.64%  
+  3.50%  
+  3.50%  
+  3.98%  
+  4.90%  
+  7.01%  
+
+  
+
+  1.14%   
+
+  5.24%    
+
+  5.08%  
+
+  
+
+  1.45%   
+
+  4.74%    
+
+  4.97%  
+
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Advisor Class without sales charge
+Barclays U.S. Aggregate Bond Index
+S&P 500 Index
+Pacific Funds Portfolio Optimization Conservative Composite
+Benchmark (Current)
+Pacific Funds Portfolio Optimization Conservative Composite
+Benchmark (Former)
+
+  
+  
+  
+  
+
+1 Year    
+ (1.53%)  
+  1.96%   
+  1.78%   
+
+Since
+Inception
+(12/31/12) 
+  1.95%  
+  2.27%  
+  14.37%  
+
+  
+
+  1.14%   
+
+ 
+
+4.91%  
+
+  
+
+  1.45%   
+
+ 
+
+4.04%  
+
+ 
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost.
+Past performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­5
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+9/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Class A underperformed the Pacific Funds Portfolio Optimization Conservative Composite Benchmark (Current). The Fund was
+primarily comprised of various fixed income strategies, with a smaller allocation to equity and alternative underlying funds, during the reporting period. Fixed income
+investments included underlying funds comprised of intermediate­term bonds, short duration securities, inflation­protected bonds, emerging markets bonds, and floating rate
+loans. The equity segment mainly encompassed domestic and foreign large­capitalization funds. Alternatives included two absolute return strategies and an equity long/short
+fund.
+While the domestic equity group was negative for the reporting period, the international equity group was the largest detractor over that period. The fixed income group
+was also negative for the same period. On the other hand, the alternatives group contributed positively.
+Among the fixed income lineup, holdings of emerging markets bonds were a solid contributor to performance over the reporting period as the asset class fared relatively
+well and the manager outperformed its benchmark. The drag on performance over the reporting period stemmed from exposure to credit (i.e., Pacific Funds High Income
+and the PF Absolute Return Fund). High yield bonds suffered from anxiety over plunging crude oil prices given the abundance of energy companies that issued high yield
+debt.
+As for domestic equities, exposure to value stocks was a drag on performance over the reporting period, although these stocks recaptured more upside during the first
+quarter of 2016 as compared to their growth counterparts. For instance, the PF Small­Cap Value Fund was a strong contributor as it outperformed its benchmark index, the
+Russell 2000 Value Index, over the reporting period. The outperformance stemmed from solid stock selection in industrial, insurance and retail. On the other hand, several
+underperforming managers dragged performance over the reporting period. The PF Comstock Fund’s overweight to banks and underweight to utilities hurt performance.
+Additionally, the PF Large­Cap Growth Fund’s higher growth and momentum exposures in consumer discretionary and information technology hurt performance.
+Exposure to international equities was a drag on returns over the reporting period. In particular, the PF International Value Fund underperformed its benchmark index,
+the MSCI EAFE Index (Net), for the reporting period. Value stocks have also been lagging in foreign markets. An overweight to financials was another key detractor from
+performance for this underlying fund as European and Japanese banks have struggled to eke out revenue in a negative interest rate environment.
+Throughout this volatile environment, alternatives have been a consistent positive contributor. The PF Equity Long/Short Fund has been the top performing underlying
+fund since it was added in April 2015. Between its inception date and March 31, 2016, this underlying fund surged 20%, while the S&P 500 Index returned ­0.28% over that
+same period.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­6
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+10/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Pacific Funds Portfolio Optimization Moderate­Conservative (managed by Pacific Life Fund Advisors LLC)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds Portfolio Optimization Moderate­Conservative’s Class A (without sales charge) returned ­1.87%, compared to a 1.96%
+return for the Barclays U.S. Aggregate Bond Index, a 1.78% return for the S&P 500 Index and a 1.01% return for the Pacific Funds Portfolio Optimization Moderate­
+Conservative Composite Benchmark.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Class A shares of the Fund to its benchmarks for the ten­year period ended March 31, 2016. For comparison purposes,
+the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class B, C, R and Advisor Class shares will vary due to differences in fees and sales
+charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+
+ 
+
+ 
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Fund’s Class B without sales charge
+Fund’s Class B with maximum sales charge
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Fund’s Class R without sales charge
+Barclays U.S. Aggregate Bond Index
+S&P 500 Index
+Pacific Funds Portfolio Optimization Moderate­
+Conservative Composite Benchmark
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+1 Year    
+ (1.87%)  
+ (7.23%)  
+ (2.61%)  
+ (7.25%)  
+ (2.61%)  
+ (3.54%)  
+ (2.15%)  
+  1.96%   
+  1.78%   
+
+5 Years    
+  3.95%    
+  2.79%    
+  3.21%    
+  2.86%    
+  3.22%    
+  3.22%    
+  3.68%    
+  3.78%    
+ 11.58%    
+
+10 Years  
+  4.40%  
+  3.81%  
+  3.84%  
+  3.84%  
+  3.67%  
+  3.67%  
+  4.16%  
+  4.90%  
+  7.01%  
+
+  
+
+  1.01%   
+
+  5.93%    
+
+  5.32%  
+
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Advisor Class without sales charge
+Barclays U.S. Aggregate Bond Index
+S&P 500 Index
+Pacific Funds Portfolio Optimization Moderate­Conservative Composite
+Benchmark
+
+  
+  
+  
+  
+
+1 Year    
+ (1.60%)  
+  1.96%   
+  1.78%   
+
+Since
+Inception
+(12/31/12) 
+  3.72%  
+  2.27%  
+  14.37%  
+
+  
+
+  1.01%   
+
+ 
+
+5.99%  
+
+ 
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost.
+Past performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Class A underperformed the Pacific Funds Portfolio Optimization Moderate­Conservative Composite Benchmark. The Fund had a
+diversified allocation mix that was modestly tilted to fixed income during the reporting period. Fixed income investments included underlying funds that consisted of
+intermediate­term bonds as well as short duration securities, inflation­protected bonds, emerging markets bonds, and floating rate loans. The equity exposure was diversified
+across style (growth/value), market capitalization and region (including an allocation to foreign small­capitalization and emerging markets strategies). Alternatives included two
+absolute return strategies and an equity long/short strategy.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­7
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+11/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+While the domestic equity group was negative for the reporting period, the international equity group was the largest detractor over that period. The fixed income group
+was also negative for the same period. On the other hand, the alternatives group contributed positively.
+Among the fixed income lineup, holdings of emerging markets bonds were a solid contributor to performance over the reporting period as the asset class fared relatively
+well and the manager outperformed its benchmark. The drag on performance over the reporting period stemmed from exposure to credit (i.e., Pacific Funds High Income
+and the PF Absolute Return Fund). High yield bonds suffered from anxiety over plunging crude oil prices given the abundance of energy companies that issued high yield
+debt.
+As for domestic equities, exposure to value stocks was a drag on performance over the reporting period, although these stocks recaptured more upside during the first
+quarter of 2016 when compared to their growth counterparts. For instance, the PF Small­Cap Value Fund was a strong contributor as it outperformed its benchmark index,
+the Russell 2000 Value Index, over the reporting period. The outperformance stemmed from solid stock selection in industrial, insurance and retail. On the other hand, several
+underperforming managers dragged performance over the reporting period. The PF Comstock Fund’s overweight to banks and underweight to utilities hurt performance.
+Additionally, the PF Large­Cap Growth Fund’s higher growth and momentum exposures in consumer discretionary and information technology hurt performance.
+Exposure to international equities was a drag on returns over the reporting period. In particular, the PF International Value Fund underperformed its benchmark index,
+the MSCI EAFE Index (Net), for the reporting period. Value stocks have also been lagging in foreign markets. An overweight to financials was another key detractor from
+performance for this underlying fund as European and Japanese banks have struggled to eke out revenue in a negative interest rate environment.
+Throughout this volatile environment, alternatives have been a consistent positive contributor. The PF Equity Long/Short Fund has been the top performing underlying
+fund since it was added in April 2015. Between its inception date and March 31, 2016, this underlying fund surged 20% while the S&P 500 Index returned ­0.28% over that
+same period.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­8
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+12/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Pacific Funds Portfolio Optimization Moderate (managed by Pacific Life Fund Advisors LLC)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds Portfolio Optimization Moderate’s Class A (without sales charge) returned ­2.50%, compared to a 1.78% return for the
+S&P 500 Index, a 1.96% return for the Barclays U.S. Aggregate Bond Index and a 0.52% return for the Pacific Funds Portfolio Optimization Moderate Composite Benchmark.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Class A shares of the Fund to its benchmarks for the ten­year period ended March 31, 2016. For comparison purposes,
+the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class B, C, R and Advisor Class shares will vary due to differences in fees and sales
+charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+
+ 
+
+ 
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Fund’s Class B without sales charge
+Fund’s Class B with maximum sales charge
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Fund’s Class R without sales charge
+S&P 500 Index
+Barclays U.S. Aggregate Bond Index
+Pacific Funds Portfolio Optimization Moderate Composite
+Benchmark
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+1 Year    
+ (2.50%)  
+ (7.88%)  
+ (3.21%)  
+ (7.78%)  
+ (3.22%)  
+ (4.13%)  
+ (2.70%)  
+  1.78%   
+  1.96%   
+
+5 Years    
+  4.82%    
+  3.64%    
+  4.08%    
+  3.74%    
+  4.09%    
+  4.09%    
+  4.58%    
+ 11.58%    
+  3.78%    
+
+10 Years  
+  4.63%  
+  4.04%  
+  4.06%  
+  4.06%  
+  3.91%  
+  3.91%  
+  4.39%  
+  7.01%  
+  4.90%  
+
+  
+
+  0.52%   
+
+  7.10%    
+
+  5.61%  
+
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Advisor Class without sales charge
+S&P 500 Index
+Barclays U.S. Aggregate Bond Index
+Pacific Funds Portfolio Optimization Moderate Composite Benchmark
+
+  
+  
+  
+  
+  
+
+1 Year    
+ (2.24%)  
+  1.78%   
+  1.96%   
+  0.52%   
+
+Since
+Inception
+(12/31/12) 
+  5.24%  
+  14.37%  
+  2.27%  
+  7.93%  
+
+ 
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost.
+Past performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Class A underperformed the Pacific Funds Portfolio Optimization Moderate Composite Benchmark. The Fund maintained a mix of
+equity and fixed income underlying funds. The equity exposure was diversified across style (growth/value), market capitalization and region (including allocations to foreign
+small­capitalization and emerging markets stocks). The Fund also maintained exposure to select market sectors such as publicly­traded REITs. Fixed income investments
+included intermediate­term bonds, short duration securities, inflation­protected bonds, emerging markets bonds, and floating rate loans. Alternatives consisted of two absolute
+return strategies and an equity long/short strategy.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­9
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+13/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+While the domestic equity group was negative for the reporting period, the international equity group was the largest detractor over that period. The fixed income group
+was also negative for the same period. On the other hand, the alternatives group contributed positively.
+As for domestic equities, exposure to value stocks was a drag on performance over the reporting period, although these stocks recaptured more upside during the first
+quarter of 2016 when compared to their growth counterparts. For instance, the PF Small­Cap Value Fund was a strong contributor as it outperformed its benchmark index,
+the Russell 2000 Value Index, over the reporting period. The outperformance stemmed from solid stock selection in industrial, insurance and retail. On the other hand, several
+underperforming managers dragged performance over the reporting period. The PF Comstock Fund’s overweight to banks and underweight to utilities hurt performance.
+Additionally, the PF Large­Cap Growth Fund’s higher growth and momentum exposures in consumer discretionary and information technology hurt performance. The PF
+Small­Cap Growth Fund likewise hurt performance due to its exposure to aggressive growth stocks in information technology.
+Exposure to international equities was a drag on returns over the reporting period. In particular, the PF International Value Fund underperformed its benchmark index,
+the MSCI EAFE Index (Net), for the reporting period. Value stocks have also been lagging in foreign markets. An overweight to financials was another key detractor from
+performance for this underlying fund as European and Japanese banks have struggled to eke out revenue in a negative interest rate environment. Allocation to emerging
+markets was a headwind, but the PF Emerging Market Fund outperformed its benchmark and cushioned some of the drag.
+Among the fixed income lineup, holdings of emerging markets bonds were a solid contributor to performance over the reporting period as the asset class fared relatively
+well and the manager outperformed its benchmark. The drag on performance over the reporting period stemmed from exposure to credit (i.e., Pacific Funds High Income
+and the PF Absolute Return Fund). High yield bonds suffered from anxiety over plunging crude oil prices given the abundance of energy companies that issued high yield
+debt.
+Throughout this volatile environment, alternatives have been a consistent positive contributor. The PF Equity Long/Short Fund has been the top performing underlying
+fund since it was added in April 2015. Between its inception date and March 31, 2016, this underlying fund surged 20% while the S&P 500 Index returned ­0.28% over that
+same period.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­10
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+14/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Pacific Funds Portfolio Optimization Growth (managed by Pacific Life Fund Advisors LLC)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds Portfolio Optimization Growth’s Class A (without sales charge) returned ­3.35%, compared to a 1.78% return for the
+S&P 500 Index, a 1.96% return for the Barclays U.S. Aggregate Bond Index and a ­0.08% return for the Pacific Funds Portfolio Optimization Growth Composite Benchmark.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Class A shares of the Fund to its benchmarks for the ten­year period ended March 31, 2016. For comparison purposes,
+the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class B, C, R and Advisor Class shares will vary due to differences in fees and sales
+charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+
+ 
+
+ 
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Fund’s Class B without sales charge
+Fund’s Class B with maximum sales charge
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Fund’s Class R without sales charge
+S&P 500 Index
+Barclays U.S. Aggregate Bond Index
+Pacific Funds Portfolio Optimization Growth Composite
+Benchmark
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+1 Year    
+ (3.35%)  
+ (8.65%)  
+ (4.13%)  
+ (8.60%)  
+ (4.13%)  
+ (5.02%)  
+ (3.60%)  
+  1.78%   
+  1.96%   
+
+5 Years    
+  5.43%    
+  4.24%    
+  4.70%    
+  4.36%    
+  4.70%    
+  4.70%    
+  5.18%    
+ 11.58%    
+  3.78%    
+
+10 Years  
+  4.46%  
+  3.88%  
+  3.90%  
+  3.90%  
+  3.75%  
+  3.75%  
+  4.24%  
+  7.01%  
+  4.90%  
+
+  
+
+ (0.08%)  
+
+  8.13%    
+
+  5.73%  
+
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Advisor Class without sales charge
+S&P 500 Index
+Barclays U.S. Aggregate Bond Index
+Pacific Funds Portfolio Optimization Growth
+Composite Benchmark
+
+  
+  
+  
+  
+
+1 Year    
+ (3.10%)  
+  1.78%   
+  1.96%   
+
+Since
+Inception
+(12/31/12) 
+  6.77%  
+  14.37%  
+  2.27%  
+
+  
+
+ (0.08%)  
+
+ 
+
+9.83%  
+
+ 
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost.
+Past performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Class A underperformed the Pacific Funds Portfolio Optimization Growth Composite Benchmark. The Fund had a diversified allocation
+mix that was tilted to equity. The equity exposure was diversified across style (growth/value), market capitalization and region (including allocations to foreign small
+capitalization and emerging markets stocks). The Fund also maintained exposure to select market sectors such as publicly­traded REITs. Fixed income investments included
+intermediate­term bonds as well as specific strategies such as short duration, inflation­protected bonds and emerging markets bonds. Alternatives included two absolute
+return strategies and an equity long/short strategy.
+While the domestic equity group was negative for the reporting period, the international equity group was the largest detractor over that period. The fixed income group
+was also negative for the same period. On the other hand, the alternatives group contributed positively.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­11
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+15/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+As for domestic equities, exposure to value stocks was a drag on performance over the reporting period, although these stocks recaptured more upside during the first
+quarter of 2016 when compared to their growth counterparts. For instance, the PF Small­Cap Value Fund was a strong contributor as it outperformed its benchmark index,
+the Russell 2000 Value Index, over the reporting period. The outperformance stemmed from solid stock selection in industrial, insurance and retail. On the other hand, several
+underperforming managers dragged performance over the reporting period. The PF Comstock Fund’s overweight to banks and underweight to utilities hurt performance.
+Additionally, the PF Large­Cap Growth Fund’s higher growth and momentum exposures in consumer discretionary and information technology hurt performance. The PF
+Small­Cap Growth Fund likewise hurt performance due to its exposure to aggressive growth stocks in information technology.
+Exposure to international equities was a drag on returns over the reporting period. In particular, the PF International Value Fund underperformed its benchmark index,
+the MSCI EAFE Index (Net), for the reporting period. Value stocks have also been lagging in foreign markets. An overweight to financials was another key detractor from
+performance as European and Japanese banks have struggled to eke out revenue in a negative interest rate environment. Allocation to emerging markets was a headwind,
+but the PF Emerging Markets Fund outperformed its benchmark and cushioned some of the drag. On the other hand, exposure to international small­caps offered some
+positive support to performance.
+Among the fixed income lineup, holdings of emerging markets bonds were a solid contributor to performance over the reporting period as the asset class fared relatively
+well and the manager outperformed its benchmark. The drag on performance over the reporting period stemmed from exposure to credit (i.e., Pacific Funds High Income
+and the PF Absolute Return Fund). High yield bonds suffered from anxiety over plunging crude oil prices given the abundance of energy companies that issued high yield
+debt.
+Throughout this volatile environment, alternatives have been a consistent positive contributor. The PF Equity Long/Short Fund has been the top performing underlying
+fund since it was added in April 2015. Between its inception date and March 31, 2016, this underlying fund surged 20% while the S&P 500 Index returned ­0.28% over that
+same period.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­12
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+16/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Pacific Funds Portfolio Optimization Aggressive­Growth (managed by Pacific Life Fund Advisors LLC)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds Portfolio Optimization Aggressive­Growth’s Class A (without sales charge) returned ­4.37%, compared to a 1.78%
+return for the S&P 500 Index, a 1.96% return for the Barclays U.S. Aggregate Bond Index and a ­1.28% return for the Pacific Funds Portfolio Optimization Aggressive­Growth
+Composite Benchmark (Current). The Fund’s composite benchmark was changed on or about July 29, 2015 due to new asset class allocations. Both the former and current
+composite benchmarks are presented below.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Class A shares of the Fund to its benchmarks for the ten­year period ended March 31, 2016. For comparison purposes,
+the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class B, C, R and Advisor Class shares will vary due to differences in fees and sales
+charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+
+ 
+
+ 
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Fund’s Class B without sales charge
+Fund’s Class B with maximum sales charge
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Fund’s Class R without sales charge
+S&P 500 Index
+Barclays U.S. Aggregate Bond Index
+Pacific Funds Portfolio Optimization Aggressive­Growth
+Composite Benchmark (Current)
+Pacific Funds Portfolio Optimization Aggressive­Growth
+Composite Benchmark (Former)
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+1 Year    
+ (4.37%)  
+ (9.62%)  
+ (5.15%)  
+ (9.78%)  
+ (5.13%)  
+ (6.05%)  
+ (4.59%)  
+  1.78%   
+  1.96%   
+
+5 Years    
+  5.13%    
+  3.94%    
+  4.48%    
+  4.14%    
+  4.48%    
+  4.48%    
+  4.90%    
+ 11.58%    
+  3.78%    
+
+10 Years  
+  3.84%  
+  3.26%  
+  3.31%  
+  3.31%  
+  3.17%  
+  3.17%  
+  3.64%  
+  7.01%  
+  4.90%  
+
+  
+
+ (1.28%)  
+
+  8.32%    
+
+  5.19%  
+
+  
+
+ (0.68%)  
+
+  8.32%    
+
+  5.34%  
+
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Advisor Class without sales charge
+S&P 500 Index
+Barclays U.S. Aggregate Bond Index
+Pacific Funds Portfolio Optimization Aggressive­Growth Composite
+Benchmark (Current)
+Pacific Funds Portfolio Optimization Aggressive­Growth Composite
+Benchmark (Former)
+
+  
+  
+  
+  
+
+1 Year    
+ (4.13%)  
+  1.78%   
+  1.96%   
+
+Since
+Inception
+(12/31/12) 
+  7.12%  
+  14.37%  
+  2.27%  
+
+  
+
+ (1.28%)  
+
+  10.47%  
+
+  
+
+ (0.68%)  
+
+  10.47%  
+
+ 
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost.
+Past performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­13
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+17/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Class A underperformed the Pacific Funds Portfolio Optimization Aggressive­Growth Composite Benchmark (Current). The Fund
+primarily allocated to domestic and international equity funds that are diversified across style (growth/value), market capitalization and region (which included allocations to
+foreign small­capitalization and emerging markets stocks). The Fund also maintained exposure to select sectors, such as publicly­traded REITs, as well as a small allocation to
+intermediate­term fixed income securities. Alternatives included two absolute return strategies and an equity long/short strategy.
+While the domestic equity group was negative for the reporting period, the international equity group was the largest detractor over that period. The fixed income group
+was roughly flat for the same period. On the other hand, the alternatives group contributed positively.
+As for domestic equities, exposure to value stocks was a drag on performance over the reporting period, although these stocks recaptured more upside during the first
+quarter of 2016 when compared to their growth counterparts. For instance, the PF Small­Cap Value Fund was a strong contributor as it outperformed its benchmark index,
+the Russell 2000 Value Index, over the reporting period. The outperformance stemmed from solid stock selection in industrial, insurance and retail. On the other hand, several
+underperforming managers dragged performance over the reporting period. The PF Comstock Fund’s overweight to banks and underweight to utilities hurt performance.
+Additionally, the PF Large­Cap Growth Fund’s higher growth and momentum exposures in consumer discretionary and information technology hurt performance. The PF
+Small­Cap Growth Fund likewise hurt performance due to its exposure to aggressive growth stocks in information technology.
+Exposure to international equities was a drag on returns over the reporting period. In particular, the PF International Value Fund underperformed its benchmark index,
+the MSCI EAFE Index (Net), for the reporting period. Value stocks have also been lagging in foreign markets. An overweight to financials was another key detractor from
+performance as European and Japanese banks have struggled to eke out revenue in a negative interest rate environment. Allocation to emerging markets was a headwind,
+but the PF Emerging Markets Fund outperformed its benchmark and cushioned some of the drag. On the other hand, exposure to international small­caps offered some
+positive support to performance.
+Among the fixed income lineup, holdings of emerging markets bonds were a solid contributor to performance over the reporting period as the asset class fared relatively
+well and the manager outperformed its benchmark. The drag on performance over the reporting period stemmed from exposure to credit from its allocation to the PF
+Managed Bond Fund and PF Absolute Return Fund.
+Throughout this volatile environment, alternatives have been a consistent positive contributor. The PF Equity Long/Short Fund has been the top performing underlying
+fund since it was added in April 2015. Between its inception date and March 31, 2016, this underlying fund surged 20% while the S&P 500 Index returned ­0.28% over that
+same period.
+Pacific Funds Diversified Alternatives (managed by Pacific Life Fund Advisors LLC)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds Diversified Alternatives’ Class A (without sales charge) returned 0.55%, compared to a 0.06% return for its benchmark,
+the Citigroup 1­Month U.S. T­Bill Index.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Class A shares of the Fund to its benchmark for the period from inception through March 31, 2016. For comparison
+purposes, the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class C and Advisor Class shares will vary due to differences in fees and
+sales charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+ 
+
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Fund’s Advisor Class without sales charge
+Citigroup 1­Month U.S. T­Bill Index
+
+  
+  
+  
+  
+  
+  
+  
+
+1 Year    
+  0.55%   
+ (4.97%)  
+ (0.19%)  
+ (1.16%)  
+  0.86%   
+  0.06%   
+
+Since
+Inception
+(12/31/13) 
+  1.61%  
+  (0.91%) 
+  0.84%  
+  0.84%  
+  1.82%  
+  0.04%  
+
+ 
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost. Past
+performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­14
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+18/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Class A outperformed the benchmark. The Fund is primarily comprised of underlying funds which, in turn, invest in a number of
+different alternative investment strategies or non­traditional asset classes. The allocations to underlying funds primarily include currency and long/short equity strategies, and
+absolute return strategies. The Fund also invests through its underlying funds in real estate, emerging markets debt and equity, bank loans and inflation­indexed debt
+instruments.
+The Fund’s allocation to the PF Equity Long/Short and PF Emerging Markets Debt Funds were the top contributors to Fund performance. The PF Equity Long/Short
+Fund has been the top performing underlying fund since it was added in April 2015. Between its inception date and March 31, 2016, this underlying fund surged 20% while
+the S&P 500 Index returned ­0.28% over that same period. For the PF Emerging Markets Debt Fund, an overweight to U.S. dollar­denominated bonds benefitted
+performance.
+While the PF Emerging Markets Debt Fund helped performance with its exposure to U.S. dollar­denominated bonds, the PF Emerging Markets Fund detracted from
+performance. Many developing regions were hurt by the sharp decline in oil prices and fear of a sharp slowdown in China. The PF Global Absolute Return Fund also dragged
+down the Fund’s performance due to its positions in South America, including interest rate exposure in Brazil and credit exposure in Ecuador, which weighed on returns as
+Latin American economies struggled to cope with falling commodities prices and a rising U.S. dollar.
+Pacific Funds Short Duration Income (managed by Pacific Asset Management)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds Short Duration Income’s Class I (without sales charge) returned 0.54%, compared to a 1.04% return for its benchmark,
+the Barclays 1­3 Year U.S. Government/Credit Bond Index.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Class I shares of the Fund to its benchmark for the period from inception through March 31, 2016. For comparison
+purposes, the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class A, C and Advisor Class shares will vary due to differences in fees
+and sales charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+ 
+
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Class I without sales charge
+Barclays 1­3 Year U.S. Government/Credit Bond Index
+
+  
+  
+  
+
+1 Year    
+  0.54%   
+  1.04%   
+
+Since
+Inception
+(12/19/11) 
+  2.94%  
+  1.01%  
+
+ 
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Fund’s Advisor Class without sales charge
+Barclays 1­3 Year U.S. Government/Credit Bond Index
+
+  
+  
+  
+  
+  
+  
+  
+
+1 Year    
+  0.15%   
+ (2.84%)  
+ (0.58%)  
+ (1.57%)  
+  0.40%   
+  1.04%   
+
+Since
+Inception
+(6/29/12)  
+  2.24%  
+  1.40%  
+  1.49%  
+  1.49%  
+  2.46%  
+  0.99%  
+
+ 
+
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost.
+Past performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Class I underperformed the benchmark. The Fund employs a short­term corporate debt focused strategy. Using a fundamental
+approach with a top­down overlay, Pacific Asset Management’s team of portfolio managers and research analysts look at the relative value of each security and assess the
+macro environment and marketplace for tailwinds and catalysts.
+During the reporting period, the Fund underperformed the benchmark primarily due to the Fund’s focus on BBB rated corporate debt securities, which underperformed
+government­related securities given higher levels of volatility and a lack of investor risk appetite. The Fund’s allocation to high yield bonds and floating rate loans also detracted
+from performance. The Fund’s underweight to energy­related companies contributed to performance as energy companies underperformed during the reporting period.
+Duration management was neutral to performance.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­15
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+19/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Pacific Funds Core Income (managed by Pacific Asset Management)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds Core Income’s Class I (without sales charge) returned 0.03%, compared to a 1.96% return for its benchmark, the
+Barclays U.S. Aggregate Bond Index.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Class I shares of the Fund to its benchmark for the period from inception through March 31, 2016. For comparison
+purposes, the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class A, C, P and Advisor Class shares will vary due to differences in fees
+and sales charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+
+ 
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Class I without sales charge
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Barclays U.S. Aggregate Bond Index
+
+1 Year    
+  0.03%   
+ (0.27%)  
+ (4.52%)  
+  1.96%   
+
+  
+  
+  
+  
+  
+
+5 Years   
+  4.62%   
+  4.37%   
+  3.47%   
+  3.78%   
+
+Since
+Inception
+(12/31/10) 
+  4.89%  
+  4.64%  
+  3.78%  
+  3.68%  
+
+ 
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Barclays U.S. Aggregate Bond Index
+
+  
+  
+  
+  
+
+ 
+
+  
+ 
+ 
+ 
+
+1 Year    
+ (1.03%)  
+ (2.00%)  
+  1.96%   
+
+Since
+Inception
+(6/30/11)  
+  3.33%  
+  3.33%  
+  3.48%  
+
+ 
+Fund’s Advisor Class without sales charge
+Barclays U.S. Aggregate Bond Index
+
+  
+  
+  
+
+ 
+
+  
+ 
+ 
+
+1 Year    
+ (0.02%)  
+  1.96%   
+
+Since
+Inception
+(6/29/12)  
+  3.41%  
+  2.45%  
+
+Total Returns for the Period from Inception Through March 31, 2016
+
+ 
+
+ 
+Fund’s Class P without sales charge
+Barclays U.S. Aggregate Bond Index
+
+  
+  
+  
+
+   
+  
+  
+
+   
+  
+  
+
+Since
+Inception
+(4/27/15) 
+  (0.75%) 
+  1.74%  
+
+ 
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost.
+Past performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Class I underperformed the benchmark. The Fund employs an intermediate term corporate debt focused strategy. Using a
+fundamental approach with a top­down overlay, Pacific Asset Management’s team of portfolio managers and research analysts look at the relative value of each security and
+assess the macro environment and marketplace for tailwinds and catalysts.
+During the reporting period, the Fund underperformed the benchmark primarily due to the Fund’s focus on BBB rated intermediate term corporate debt securities, which
+underperformed government­related securities given higher levels of volatility and lack of investor risk appetite. The Fund’s allocation to high yield bonds and floating rate
+loans also detracted from performance. The Fund’s underweight to energy­related companies contributed to performance as energy companies underperformed during the
+reporting period. Duration management was neutral to performance.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­16
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+20/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Pacific Funds Strategic Income (managed by Pacific Asset Management)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds Strategic Income’s Class I (without sales charge) returned ­1.98%, compared to a 1.96% return for its benchmark, the
+Barclays U.S. Aggregate Bond Index.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Class I shares of the Fund to its benchmark for the period from inception through March 31, 2016. For comparison
+purposes, the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class A, C and Advisor Class shares will vary due to differences in fees
+and sales charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+
+ 
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Class I without sales charge
+Barclays U.S Aggregate Bond Index
+
+ 
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Fund’s Advisor Class without sales charge
+Barclays U.S Aggregate Bond Index
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+1 Year    
+ (1.98%)  
+  1.96%   
+
+Since
+Inception
+(12/19/11) 
+  6.32%  
+  2.70%  
+
+1 Year    
+ (2.17%)  
+ (6.35%)  
+ (2.90%)  
+ (3.84%)  
+ (2.01%)  
+  1.96%   
+
+Since
+Inception
+(6/29/12)  
+  4.90%  
+  3.69%  
+  4.13%  
+  4.13%  
+  5.14%  
+  2.45%  
+
+ 
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost.
+Past performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Class I underperformed the benchmark. The Fund seeks a high level of income by investing broadly across the credit spectrum with
+an emphasis on non­investment grade securities. Using a fundamental approach with a top­down overlay, Pacific Asset Management’s team of portfolio managers and
+research analysts look at the relative value of each security and assess the macro environment and marketplace for tailwinds and catalysts.
+During the reporting period, the Fund underperformed the benchmark primarily due to the Fund’s focus on non­investment grade securities, which underperformed
+government bonds given elevated levels of volatility, deteriorating macro conditions, and a lack of investor risk appetite. During the reporting period, weakening growth
+outlooks and concerns toward the credit cycle negatively impacted non­investment grade issuers. The Fund’s exposure to high yield bonds, which was the primary asset
+allocation of the Fund’s net assets during the reporting period, was the primary detractor from relative results.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­17
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+21/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Pacific Funds Floating Rate Income (managed by Pacific Asset Management)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds Floating Rate Income’s Class I (without sales charge) returned 1.02%, compared to a ­1.11% return for its benchmark,
+the Credit Suisse Leveraged Loan Index.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Class I shares of the Fund to its benchmark for the period from inception through March 31, 2016. For comparison
+purposes, the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class A, C, P and Advisor Class shares will vary due to differences in fees
+and sales charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+
+ 
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Class I without sales charge
+Credit Suisse Leveraged Loan Index
+
+ 
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Credit Suisse Leveraged Loan Index
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+1 Year    
+  1.02%   
+ (1.11%)  
+
+Since
+Inception
+(6/30/11)  
+  4.13%  
+  3.60%  
+
+1 Year    
+  0.72%   
+ (2.29%)  
+ (0.04%)  
+ (1.01%)  
+ (1.11%)  
+
+Since
+Inception
+(12/30/11) 
+  4.31%  
+  3.57%  
+  3.55%  
+  3.55%  
+  4.43%  
+
+ 
+Fund’s Advisor Class without sales charge
+Credit Suisse Leveraged Loan Index
+
+  
+  
+  
+
+1 Year    
+  0.96%   
+ (1.11%)  
+
+Since
+Inception
+(6/29/12)  
+  3.75%  
+  3.88%  
+
+ 
+Fund’s Class P without sales charge
+Credit Suisse Leveraged Loan Index
+
+  
+  
+  
+
+1 Year    
+  0.97%   
+ (1.11%)  
+
+Since
+Inception
+(12/31/12) 
+  2.73%  
+  2.79%  
+
+ 
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost.
+Past performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Class I outperformed the benchmark. Pacific Asset Management’s team of portfolio managers and research analysts look for
+investment opportunities in floating rate loans and debt securities with a focus on the large­capitalization issuers within the bank loan universe.
+The Fund outperformed the benchmark for the reporting period due to security selection and sector allocations. The significant underweight or no exposure to energy,
+media/telecommunication, utility and metals/minerals relative to the benchmark were the primary drivers of relative outperformance. The overweight to retail and
+manufacturing detracted from performance. The focus on large­capitalization issuers was negative to performance as smaller companies outperformed. Overweights to the
+bank loan debt of Landmark Aviation, Altice, and Level 3 Communications were strong contributors to performance while Neiman Marcus, Accudyne, and Brickman Group
+were detractors.
+At the end of the reporting period, the Fund was overweight in housing, forest products/containers, and food and drug while underweight technology, health care, and
+media/telecommunication. During the market sell­off in the latter half of the reporting period, Pacific Asset Management selectively added high yield bonds, most of which
+were first­lien bonds. Since the third quarter of 2015 the Fund has held no energy­related issuers. Due to the capital destruction in commodity companies and likely surge in
+defaults/distressed situations, Pacific Asset Management is cautious on commodity related sectors.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­18
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+22/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Pacific Funds Limited Duration High Income (managed by Pacific Asset Management)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds Limited Duration High Income’s Class I (without sales charge) returned ­3.19%, compared to a ­4.52% return for its
+benchmark, the Barclays U.S. 1­5 Year High­Yield Index.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Class I shares of the Fund to its benchmark for the period from inception through March 31, 2016. For comparison
+purposes, the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class A, C and Advisor Class shares will vary due to differences in fees
+and sales charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+
+ 
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Class I without sales charge
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Fund’s Advisor Class without sales charge
+Barclays U.S. 1­5 Year High­Yield Index
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+1 Year    
+ (3.19%)  
+ (3.48%)  
+ (6.41%)  
+ (4.10%)  
+ (5.03%)  
+ (3.24%)  
+ (4.52%)  
+
+Since
+Inception
+(7/31/13) 
+  0.23%  
+  (0.03%) 
+  (1.17%) 
+  (0.75%) 
+  (0.75%) 
+  0.21%  
+  0.64%  
+
+ 
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost.
+Past performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Class I outperformed the benchmark. The Fund seeks a high level of income by investing primarily in high yield and bank loan
+instruments. Using a fundamental approach with a top­down overlay, Pacific Asset Management’s team of portfolio managers and research analysts look at the relative value
+of each security and assess the macro environment and marketplace for tailwinds and catalysts.
+During the reporting period, the Fund outperformed the benchmark due to its overweight to bank loan instruments. The Fund invests broadly in bank loans and high yield
+bonds. The Fund held an overweight to bank loans versus the benchmark during the reporting period. Bank loans saw less volatility relative to high yield bonds during the
+reporting period. High yield bonds were also more susceptible to the weakening macro conditions, poor technicals, and concerns towards the credit cycle. Bank loans also
+benefited from their lower overall exposure during the reporting period to commodity related sectors. The Fund’s underweight to the energy sector benefited performance
+given the significant declines seen in oil prices.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­19
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+23/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Pacific Funds High Income (managed by Pacific Asset Management)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds High Income’s Class I (without sales charge) returned ­5.57%, compared to a ­3.66% return for its benchmark, the
+Barclays U.S. High­Yield 2% Issuer Capped Bond Index.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Class I shares of the Fund to its benchmark for the period from inception through March 31, 2016. For comparison
+purposes, the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class A, C, P and Advisor Class shares will vary due to differences in fees
+and sales charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+
+ 
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Class I without sales charge
+Barclays U.S. High­Yield 2% Issuer Capped Bond Index
+
+ 
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Fund’s Advisor Class without sales charge
+Barclays U.S. High­Yield 2% Issuer Capped Bond Index
+
+ 
+Fund’s Class P without sales charge
+Barclays U.S. High­Yield 2% Issuer Capped Bond Index
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+1 Year    
+ (5.57%)  
+ (3.66%)  
+
+Since
+Inception
+(12/19/11) 
+  5.25%  
+  5.77%  
+
+1 Year    
+ (5.79%)  
+ (9.83%)  
+ (6.52%)  
+ (7.43%)  
+ (5.66%)  
+ (3.66%)  
+
+Since
+Inception
+(6/29/12)  
+  3.42%  
+  2.23%  
+  2.67%  
+  2.67%  
+  3.64%  
+  4.36%  
+
+1 Year    
+ (5.60%)  
+ (3.66%)  
+
+Since
+Inception
+(1/14/15)  
+  (2.35%) 
+  (0.94%) 
+
+ 
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost.
+Past performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Class I underperformed the benchmark. The Fund seeks a high level of income by investing in non­investment grade debt
+instruments. Using a fundamental approach with a top­down overlay, Pacific Asset Management’s team of portfolio managers and research analysts look at the relative value
+of each security and assess the macro environment and marketplace for tailwinds and catalysts.
+During the reporting period, the Fund underperformed the benchmark primarily due to an overweight to CCC and B rated bonds, which underperformed BB rated bonds
+given higher levels of volatility, deteriorating macro conditions, and a lack of investor risk appetite. BB rated bonds returned 0.13% versus CCC rated bonds returning
+­10.60%. Weakening growth outlooks and concerns toward the credit cycle negatively impacted lower­quality high yield bonds.
+The Fund’s overweight position in gaming, building materials, and packaging benefited performance, while underweight positions in banking, cable & satellite, and
+technology detracted from performance.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­20
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+24/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Pacific Funds Large­Cap (managed by Rothschild Asset Management Inc.)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds Large­Cap’s Investor Class (without sales charge) returned ­2.97%, compared to a 1.78% return for its benchmark, the
+S&P 500 Index.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Investor Class shares of the Fund to its benchmark for the period from inception through March 31, 2016. For
+comparison purposes, the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class A, C, Advisor and Institutional Class shares will vary
+due to differences in fees and sales charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+
+ 
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Investor Class without sales charge
+S&P 500 Index
+
+  
+  
+  
+
+1 Year    
+ (2.97%)  
+  1.78%   
+
+Since
+Inception
+(12/31/14) 
+  (1.60%) 
+  2.19%  
+
+ 
+Fund’s Institutional Class without sales charge
+S&P 500 Index
+
+  
+  
+  
+
+1 Year    
+ (2.73%)  
+  1.78%   
+
+Since
+Inception
+(3/20/15)  
+  (4.03%) 
+  (0.10%) 
+
+Total Returns for the Period from Inception through March 31, 2016
+
+ 
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Fund’s Advisor Class without sales charge
+S&P 500 Index
+
+  
+  
+  
+  
+  
+  
+  
+
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Since
+Inception
+(1/11/16)  
+  6.15%  
+  1.68%  
+  6.04%  
+  5.04%  
+  6.26%  
+  7.62%  
+
+ 
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost.
+Past performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Investor Class underperformed the benchmark. We at Rothschild implement the Fund’s strategy by investing in common stocks and
+other equity securities of large capitalization U.S. companies. We invest in securities that we believe are attractively valued with the potential to exceed investor expectations.
+We analyze a variety of quantitative and fundamental inputs in making stock decisions, and seek to build a portfolio that is well diversified at the issuer level and by economic
+sector.
+Stock returns differed widely across sectors, with telecommunication services, utilities, and consumer staples contributing to the Fund’s performance. In contrast, the
+Fund’s positions in materials, health care, and energy stocks suffered declines. An underweight to energy, along with modest overweight positions to telecommunication
+services and consumer discretionary stocks contributed to performance, while an underweight to consumer staples and an overweight to health care detracted from Fund
+performance. Although stock selection in the energy and industrials sectors contributed to performance, it was more than offset by detractors in health care, consumer
+discretionary and information technology.
+Our detractors included Western Digital. The disk­drive manufacturer saw personal computer (PC) sales spike in 2014 as the expiration of Microsoft XP led to commercial
+consumer purchasing to support upgrade to new operating system, but sales slowed more than expected in 2015, as it became more apparent that the 2014 PC recovery
+was tied more to the XP expiration than a replacement cycle. Western Digital’s acquisition of flash memory maker SanDisk was not well­received by the market. Mallinckrodt
+declined during the reporting period, coupled with concerns over the company’s reliance on controversial specialty pharmacies for product distribution, weighed heavily on the
+stock. McKesson was hurt by the general negative sentiment towards drug distributors following several indicators of a slowing generic inflation environment, which had been
+a tailwind for the group. This led to a material reduction in guidance in January. We sold all three of these stocks during the reporting period.
+On a stock­specific basis, one of the biggest contributors to relative performance was Microsoft. The stock rallied as the market continues to respond positively to steps
+taken by the company’s new leadership. Utility stock Edison International significantly exceeded earnings expectations and raised guidance on future earnings, anchored by
+strong rate base growth expectations. The results also provided greater confidence in Edison’s ability to deliver above­average dividend growth going forward. Another strong
+contributor was Raytheon, as investors concerned about an industrial slowdown in the U.S. economy moved to the less cyclical defense sector. As geopolitical tensions rose,
+Raytheon and other defense stocks benefitted. Due to the stock’s strong performance and our desire to trim exposure to the sector, the stock was sold.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­21
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+25/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Pacific Funds Large­Cap Value (managed by Rothschild Asset Management Inc.)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds Large­Cap Value’s Investor Class (without sales charge) returned ­1.38%, compared to a ­1.54% return for its
+benchmark, the Russell 1000 Value Index.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Investor Class shares of the Fund to its benchmark for the period from inception through March 31, 2016. For
+comparison purposes, the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class A, C, Advisor and Institutional Class shares will vary
+due to differences in fees and sales charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+
+ 
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Investor Class without sales charge
+Russell 1000 Value Index
+
+  
+  
+  
+
+1 Year    
+ (1.38%)  
+ (1.54%)  
+
+Since
+Inception
+(12/31/14) 
+  (2.14%) 
+  (1.81%) 
+
+Total Returns for the Period from Inception through March 31, 2016
+
+ 
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Fund’s Advisor Class without sales charge
+Fund’s Institutional Class without sales charge
+Russell 1000 Value Index
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Since
+Inception
+(1/11/16)  
+  5.46%  
+  0.96%  
+  5.35%  
+  4.35%  
+  5.57%  
+  5.57%  
+  8.12%  
+
+ 
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost.
+Past performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Investor Class outperformed the benchmark. We at Rothschild implement the Fund’s strategy by investing in common stocks and other
+equity securities of large capitalization U.S. companies. We invest in securities that we believe are attractively valued with the potential to exceed investor expectations. We
+analyze a variety of quantitative and fundamental inputs in making stock decisions, and the team seeks to build a portfolio that is well diversified at the issuer level and by
+economic sector.
+Stock returns differed widely across sectors, with telecommunication services, utilities, and industrials stocks fueling the Fund’s performance, as the Fed’s “lower­for­
+longer” outlook for interest rates led investors to drive the price of dividend­paying stocks up. Stocks in the industrials sector also drove positive performance in the Fund. In
+contrast, energy, materials, and financials stocks suffered declines. Underweights to financials and energy, along with a slight overweight to utilities stocks, contributed to
+performance. However, these were offset by underweights in telecommunication services and consumer staples, along with an overweight to consumer discretionary. Overall,
+stock selection was strong, with stocks in the industrials, consumer discretionary and energy sectors contributing to performance. This was partially offset by detractors in the
+materials and information technology sectors.
+On a stock­specific basis, one of the biggest contributors to relative performance included Public Storage. Public Storage is the largest owner of self­storage facilities in the
+U.S. Microsoft rallied as the market continues to respond positively to steps taken by the company’s new leadership. Defense contractor Northrop Grumman rose as
+geopolitical tensions increased. The company is less exposed to the cyclical dynamics of world economies, with its fortunes more closely tied to U.S. military budgets.
+Large detractors included Marathon Oil, which declined as oil prices plummeted and the stock was sold. Retailer Macy’s Inc. became oversold in the fourth quarter of
+2015, but expectations have been drastically cut and the stock bounced back during the next quarter. We continue to hold the stock in the Fund, as it looks attractive on a
+valuation basis, and the company recently announced it will take steps to monetize its real estate holdings. Ameriprise Financial declined alongside many other financials
+stocks, which are hurt by the persistent outlook for low interest rates.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­22
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+26/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Pacific Funds Small/Mid­Cap (managed by Rothschild Asset Management Inc.)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds Small/Mid­Cap’s Institutional Class (without sales charge) returned ­6.17%, compared to a ­7.31% return for its
+benchmark, the Russell 2500 Index.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Institutional Class shares of the Fund to its benchmark for the period from inception through March 31, 2016. For
+comparison purposes, the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class A, C, Advisor and Investor Class shares will vary due
+to differences in fees and sales charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+
+ 
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Institutional Class without sales charge
+Russell 2500 Index
+
+  
+  
+  
+
+1 Year    
+ (6.17%)  
+ (7.31%)  
+
+Since
+Inception
+(12/31/14) 
+  0.02%  
+  (2.02%) 
+
+Total Returns for the Period from Inception through March 31, 2016
+
+ 
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Fund’s Advisor Class without sales charge
+Fund’s Investor Class without sales charge
+Russell 2500 Index
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Since
+Inception
+(1/11/16)  
+  6.43%  
+  1.95%  
+  6.22%  
+  5.22%  
+  6.32%  
+  6.22%  
+  8.53%  
+
+ 
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost.
+Past performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Institutional Class outperformed the benchmark. We at Rothschild implement the Fund’s strategy by investing in common stocks and
+other equity securities of small and medium capitalization U.S. companies. We invest in securities that we believe are attractively valued with the potential to exceed investor
+expectations. We analyze a variety of quantitative and fundamental inputs in making stock decisions, and seek to build a portfolio that is well diversified at the issuer level and
+by economic sector.
+Stock returns differed widely across sectors. Sectors that contributed to performance for the Fund were utilities and, to a lesser degree, financials. On the other hand,
+energy, industrials, and consumer discretionary stocks underperformed. An underweight to energy and an overweight to information technology contributed to performance.
+These were more than offset by an overweight to health care and an underweight to utilities, which detracted from performance. Stock selection was strong, particularly in
+information technology, health care, and financials, partially offset by detractors in industrials, energy, and consumer staples.
+On a stock­specific basis, one of the biggest contributors to relative performance was Stamps.com. The shipping software company reported significantly better than
+expected results and raised guidance driven by synergies from its accretive acquisitions. Market Axess Holdings, an operator of an electronic trading platform for fixed­income
+securities, benefitted from strong market share growth throughout the reporting period. Ingram Micro Inc., a wholesale provider of technology products and supply chain
+management services, agreed to be acquired by a Tianjin Tianhai, a Chinese logistics company, for about a 30% premium.
+Our detractors included names in the biotech industry, which came under pressure due to fears of additional regulation of drug pricing. Community Health, an operator of
+non­urban hospitals, reported disappointing results, due in part to a troubled acquisition. AMAG Pharmaceuticals, a specialty biopharmaceutical company, was impacted by
+the U.S. Food and Drug Administration (FDA) approval of a generic drug that investors feared would compete with the company’s flagship drug Makena, which prevents risks
+of preterm birth. However, the FDA later released the generic drug label, which appears to have eliminated the competitive threat. Another detractor was Horizon Pharma, a
+specialty biopharmaceutical company. The company in­licenses and acquires underutilized assets, and as part of its strategy has raised prices in some instances. Given recent
+criticism of this business model and concerns over industry pricing, Horizon Pharma’s valuation was disproportionately impacted.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­23
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+27/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Pacific Funds Small­Cap (managed by Rothschild Asset Management Inc.)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds Small­Cap’s Institutional Class (without sales charge) returned ­8.18%, compared to a ­9.76% return for its benchmark,
+the Russell 2000 Index.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Institutional Class shares of the Fund to its benchmark for the period from inception through March 31, 2016. For
+comparison purposes, the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class A, C, Advisor and Investor Class shares will vary due
+to differences in fees and sales charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+
+ 
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Institutional Class without sales charge
+Russell 2000 Index
+
+  
+  
+  
+
+1 Year    
+ (8.18%)  
+ (9.76%)  
+
+Since
+Inception
+(12/31/14) 
+  (2.22%) 
+  (4.72%) 
+
+Total Returns for the Period from Inception through March 31, 2016
+
+ 
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Fund’s Advisor Class without sales charge
+Fund’s Investor Class without sales charge
+Russell 2000 Index
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Since
+Inception
+(1/11/16)  
+  6.37%  
+  1.90%  
+  6.15%  
+  5.15%  
+  6.37%  
+  6.26%  
+  7.35%  
+
+ 
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost.
+Past performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Institutional Class outperformed the benchmark. We at Rothschild implement the Fund’s strategy by investing in common stocks and
+other equity securities of small capitalization U.S. companies. We invest in securities that we believe are attractively valued with the potential to exceed investor expectations.
+We analyze a variety of quantitative and fundamental inputs in making stock decisions, and seek to build a portfolio that is well diversified at the issuer level and by economic
+sector.
+Stock returns differed widely across sectors. Leading sectors for the Fund for the reporting period were utilities and information technology. Conversely, energy, consumer
+staples, and materials stocks experienced significant declines. An overweight in information technology and an underweight in energy contributed to performance, while
+underweights to utilities and financials, along with a slight overweight to health care, detracted from performance. Stock selection was strong, particularly in the health care,
+consumer discretionary, and information technology sectors, while partially offset by detractors in the consumer staples, energy and industrials sectors.
+On a stock­specific basis, one of the biggest contributors to relative performance was Take­Two Interactive Software, a developer of video games. The company reported
+better than expected results, as “gamers” continue to upgrade their libraries due to next generation console purchases. Market Axess Holdings, an operator of an electronic
+trading platform for fixed­income securities, benefitted from strong market share growth throughout the reporting period. Black Hills Corporation, a diversified energy services
+company, just completed an acquisition of SourceGas, which should enhance future earnings. The company is also awaiting approval to provide its own natural gas directly to
+customers.
+The Fund’s detractors included SUPERVALU, a grocery wholesaler and retailer. The stock declined in response to continued weak customer traffic as well as margin
+compression caused by food price deflation. As we could see no real positive catalyst in the near future, and we had some concerns about a change in management, we sold
+the stock. AMAG Pharmaceuticals was impacted by the FDA approval of a generic drug that investors feared would compete with the company’s flagship drug Makena, which
+prevents risks of preterm birth. However, the FDA later released the generic drug label, which appears to have eliminated the competitive threat. Another detractor included
+INSYS Therapeutics, Inc., a specialty pharmaceutical company. INSYS submitted additional safety/equivalence data to the FDA, requiring a 3­month extension for the FDA to
+further review. The extended review date should have a greater impact on the timing of the approval, rather than the approval itself. Based on valuation, we believe that
+approval alone provides upside for the stock.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­24
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+28/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Pacific Funds Small­Cap Value (managed by Rothschild Asset Management Inc.)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds Small–Cap Value’s Institutional Class (without sales charge) returned ­6.67%, compared to a ­7.72% return for its
+benchmark, the Russell 2000 Value Index.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Institutional Class shares of the Fund to its benchmark for the period from inception through March 31, 2016. For
+comparison purposes, the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class A, C, Advisor and Investor Class shares will vary due
+to differences in fees and sales charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+
+ 
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Institutional Class without sales charge
+Russell 2000 Value Index
+
+  
+  
+  
+
+1 Year    
+ (6.67%)  
+ (7.72%)  
+
+Since
+Inception
+(12/31/14) 
+  (2.44%) 
+  (4.74%) 
+
+Total Returns for the Period from Inception through March 31, 2016
+
+ 
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Fund’s Advisor Class without sales charge
+Fund’s Investor Class without sales charge
+Russell 2000 Value Index
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Since
+Inception
+(1/11/16)  
+  7.73%  
+  3.16%  
+  7.50%  
+  6.50%  
+  7.84%  
+  7.73%  
+  9.36%  
+
+ 
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost.
+Past performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Institutional Class outperformed the benchmark. We at Rothschild implement the Fund’s strategy by investing in common stocks and
+other equity securities of small capitalization U.S. companies. We invest in securities that we believe are attractively valued with the potential to exceed investor expectations.
+We analyze a variety of quantitative and fundamental inputs in making stock decisions, and seek to build a portfolio that is well diversified at the issuer level and by economic
+sector.
+Stock returns differed widely across sectors. Leading sectors for the Fund for the reporting period were utilities, and health care. Conversely, energy, consumer staples,
+and materials stocks experienced significant declines. An underweight in energy and an overweight in information technology stocks contributed to performance, while
+underweights to utilities, financials, and consumer staples detracted from performance. Stock selection was strong, particularly in the consumer discretionary, health care, and
+financials sectors, while partially offset by detractors in the consumer staples, industrials, and energy sectors.
+On a stock­specific basis, one of the biggest contributors to relative performance in the reporting period included Air Transport Services Group, Inc. The company provides
+aircraft leasing, operations and maintenance services to the air cargo transportation and package delivery industries. The stock outperformed as the company announced an
+agreement with Amazon to operate an air cargo network servicing their U.S. customers, increasing forward EBITDA expectations and improving the expected quality and
+predictability of earnings. Children’s Place, Inc., a maker of children’s apparel, rose on much better than expected results and guidance. The company also enjoyed stronger
+than expected same­store sales. Black Hills Corporation, a diversified energy services company, just completed an acquisition of SourceGas, which should enhance future
+earnings. The company is also awaiting approval to provide its own natural gas directly to customers.
+Our detractors included SUPERVALU, a grocery wholesaler and retailer. The stock declined in response to continued weak customer traffic as well as margin
+compression caused by food price deflation. As we could see no real positive catalyst in the near future, and we had some concerns about a change in management, we sold
+the stock. Stage Stores, a small market department store chain, reported solid results, but the company’s exposure to Texas and other energy­producing markets has caused
+some investor concern. American Equity Investment Life, a leader in the development and sale of annuity products, declined on a combination of concerns over the
+Department of Labor’s ruling on fiduciary duty, investment leverage, and the low interest rate environment, which is causing investment spreads to narrow.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­25
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+29/182
+
+6/3/2016
+
+Pacific Funds Series Trust
+
+PACIFIC FUNDS PERFORMANCE DISCUSSION (Continued)
+ 
+
+Pacific Funds Small­Cap Growth (managed by Rothschild Asset Management Inc.)
+Q. How did the Fund perform for the year ended March 31, 2016?
+A. For the year ended March 31, 2016, Pacific Funds Small–Cap Growth’s Investor Class (without sales charge) returned ­9.50%, compared to a ­11.84% return for its
+benchmark, the Russell 2000 Growth Index.
+ 
+
+The following graph compares the performance of a hypothetical $10,000 investment in Investor Class shares of the Fund to its benchmark for the period from inception through March 31, 2016. For
+comparison purposes, the performance of all classes for the periods ended March 31, 2016 are also shown in the table below. Performance data for Class A, C, Advisor and Institutional Class shares will vary
+due to differences in fees and sales charges. The Fund’s performance reflects reinvestments of all dividends and capital gains distributions, if any.
+
+Performance Comparison
+
+ 
+Average Annual Total Returns for the Periods Ended March 31, 2016
+
+ 
+
+ 
+Fund’s Investor Class without sales charge
+Russell 2000 Growth Index
+
+  
+  
+  
+
+1 Year    
+  (9.50%)  
+ (11.84%)  
+
+Since
+Inception
+(12/31/14) 
+  (3.06%) 
+  (4.83%) 
+
+Total Returns for the Period from Inception through March 31, 2016
+
+ 
+Fund’s Class A without sales charge
+Fund’s Class A with maximum sales charge
+Fund’s Class C without sales charge
+Fund’s Class C with maximum sales charge
+Fund’s Advisor Class without sales charge
+Fund’s Institutional Class without sales charge
+Russell 2000 Growth Index
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Since
+Inception
+(1/11/16)  
+  3.88%  
+  (0.52%) 
+  3.67%  
+  2.67%  
+  3.99%  
+  3.88%  
+  5.32%  
+
+ 
+Performance data shown represents past performance. Investment return and principal value will fluctuate so that shares of the Fund when redeemed may be worth more or less than their original cost.
+Past performance is not predictive of future performance. The table does not reflect the deduction of taxes that a shareholder would pay on Fund distributions or redemption of Fund shares.
+
+Q. Discuss both positive and negative factors that materially affected the Fund’s performance during the year, including relevant market conditions, investment strategies and
+techniques, and particular sectors or securities.
+A. For the reporting period, the Fund’s Investor Class outperformed the benchmark. We at Rothschild implement the Fund’s strategy by investing in common stocks and other
+equity securities of small capitalization U.S. companies. We invest in securities that we believe are attractively valued with the potential to exceed investor expectations. We
+analyze a variety of quantitative and fundamental inputs in making stock decisions, and seek to build a portfolio that is well diversified at the issuer level and by economic
+sector.
+Stock returns differed widely across sectors. Leading sectors for the Fund for the reporting period were materials, consumer staples, and financials. Conversely, energy,
+health care, and industrials stocks experienced significant declines. An overweight in information technology and underweights in energy and health care contributed to
+performance, while underweights to financials, telecommunications, and industrials detracted from performance. Stock selection was strong, particularly in the consumer
+discretionary, information technology, and materials sectors, while partially offset by detractors in the industrials and energy sectors.
+On a stock­specific basis, one of the biggest contributors to relative performance was Stamps.com. The shipping software company reported significantly better than
+expected results and raised guidance driven by synergies from its accretive acquisitions. Market Axess Holdings, an operator of an electronic trading platform for fixed­income
+securities, benefitted from strong market share growth throughout the reporting period. Euronet Worldwide, an ATM and prepaid processor and money transfer company,
+posted much better than expected second quarter of 2015 results and third quarter of 2015 guidance across all three of its business segments.
+Our detractors included names in the Biotech industry, such as Puma Biotechnology, Inc., an oncology biotech company. The company filed a 3­month extension for the
+FDA’s further review. Because the extension had no impact on outcome of the clinical data presented to the FDA, we continue to hold the stock. AMAG Pharmaceuticals was
+impacted by the FDA approval of a generic drug that investors feared would compete with the company’s flagship drug Makena, which prevents risks of preterm birth.
+However, the FDA later released the generic drug label, which appears to have eliminated the competitive threat. Aratana Therapeutics, a development stage
+biopharmaceutical company that in­licenses companion animal drugs, announced that it would discontinue its oncology portfolio, after interim analysis suggested failure to add
+significant progression­free survival in canine T­Cell lymphoma.
+ 
+ 
+
+ 
+
+See benchmark definitions on A­27 and A­28
+
+A­26
+
+http://www.sec.gov/Archives/edgar/data/1137761/000119312516612564/d144966dncsr.htm
+
+30/182
+
+

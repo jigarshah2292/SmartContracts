@@ -1,0 +1,2549 @@
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+N­CSRS 1 d119366dncsrs.htm SELECT SECTOR SPDR TRUST
+Table of Contents
+
+ 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+
+ 
+
+FORM N­CSR
+ 
+
+ 
+CERTIFIED SHAREHOLDER REPORT OF REGISTERED
+MANAGEMENT INVESTMENT COMPANIES
+Investment Company Act file number: 811­08837
+
+ 
+
+ 
+
+THE SELECT SECTOR SPDR® TRUST
+(Exact name of registrant as specified in charter)
+
+ 
+
+ 
+One Lincoln Street, Boston, Massachusetts 02111
+
+ 
+
+(Address of principal executive offices) (zip code)
+
+ 
+Joshua A. Weinberg, Esq.
+Vice President and Managing Counsel
+SSGA Funds Management, Inc.
+One Lincoln Street
+Boston, Massachusetts 02111
+
+ 
+
+(Name and Address of Agent for Service)
+
+ 
+Copy to:
+Leonard Mackey, Esq.
+Clifford Chance US LLP
+31 West 52nd Street
+New York, New York 10019
+
+ 
+
+ 
+Registrant’s telephone number, including area code: (617) 664­7037
+Date of fiscal year end: September 30
+Date of reporting period: March 31, 2016
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+1/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+ 
+
+ 
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+2/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+Item 1: Report to Shareholders.
+ 
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+3/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+4/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Semi­Annual Report
+ 
+
+March 31, 2016
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+5/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+SELECT SECTOR SPDR FUNDS
+
+The Select Sector SPDR Trust consists of eleven separate investment portfolios (each a “Select Sector SPDR Fund“ or a
+“Fund“ and collectively the “Select Sector SPDR Funds“ or the “Funds“).
+Select Sector SPDR Funds are “index funds” that unbundle the benchmark S&P 500† and give you ownership in particular
+sectors or groups of industries that are represented by a specified Select Sector Index. Through a single share, investors can
+buy or sell any of eleven major industry sectors that make up the S&P 500® , much as they buy or sell a share of stock. Select
+Sector SPDR Fund shares are different from the shares of conventional mutual funds. Select Sector SPDR Funds trade on
+NYSE Arca.
+
+ELEVEN SELECT SECTOR SPDR FUNDS
+Shares are available for exchange trading in the following Funds of The Select Sector SPDR Trust:
+ 
+
+The Consumer Discretionary Select Sector SPDR Fund
+
+  
+
+XLY
+
+The Consumer Staples Select Sector SPDR Fund
+
+  
+
+XLP
+
+The Energy Select Sector SPDR Fund
+
+  
+
+XLE
+
+The Financial Select Sector SPDR Fund
+
+  
+
+XLF
+
+The Financial Services Select Sector SPDR Fund
+
+  
+
+XLFS
+
+The Health Care Select Sector SPDR Fund
+
+  
+
+XLV
+
+The Industrial Select Sector SPDR Fund
+
+  
+
+XLI
+
+The Materials Select Sector SPDR Fund
+
+  
+
+XLB
+
+The Real Estate Select Sector SPDR Fund
+
+  
+
+XLRE
+
+The Technology Select Sector SPDR Fund
+
+  
+
+XLK
+
+The Utilities Select Sector SPDR Fund
+
+  
+
+XLU
+
+Each of these Funds is designed to, before expenses, correspond generally to the price and yield performance of a Select
+Sector Index. Each Fund’s portfolio is comprised principally of shares of constituent companies in the S&P 500® . Each stock
+in the S&P 500 ®  is allocated to one Select Sector Index, except stocks assigned to the Financial Sector which also are
+assigned to the Financial Services Sector or the Real Estate Sector. The combined companies of the eleven Select Sector
+Indexes represent all of the companies in the S&P 500® . Each Select Sector SPDR Fund can be expected to move up or
+down in value with its underlying Select Sector Index. Investors cannot invest directly in an index. Funds focused on a single
+sector generally experience greater price fluctuations than the overall stock market.
+
+OBJECTIVE
+Select Sector SPDR Funds are designed to provide investors with an affordable way to invest in a portfolio of equity securities
+in a sector or group of industries in a single trade. Select Sector SPDR Funds allow you to tailor asset allocations to fit your
+particular investment needs or goals. One Fund may complement another; individual Select Sector SPDR Funds can be used
+to increase exposure to certain industries that may be outperforming the market or to hedge other holdings in your portfolio.
+Although an individual Select Sector SPDR Fund may bear a higher level of risk than a broad­market fund, because of less
+diversification, sector investments may also offer opportunities for returns greater than an investment in the entire constituents
+of the S&P 500® .
+
+ 
+ 
+
+The information contained in this report is intended for the general information of shareholders of the Trust. This report is
+not authorized for distribution to prospective investors unless preceded or accompanied by a current Trust prospectus
+which contains important information concerning the Trust. You may obtain a current prospectus from the Distributor,
+ALPS Portfolio Solutions Distributor, Inc., by calling 1­866­SECTOR­ETF (1­866­732­8673). Please read the prospectus
+carefully before you invest.
+ 
+
+† S&P 500: the Standard & Poor’s composite index of 500 stocks, a widely recognized, unmanaged, index of common stock prices.
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+6/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+Fund Performance and Portfolio Summary
+
+  
+
+The Consumer Discretionary Select Sector SPDR Fund (XLY)
+
+     1  
+
+The Consumer Staples Select Sector SPDR Fund (XLP)
+
+     4  
+
+The Energy Select Sector SPDR Fund (XLE)
+
+     7  
+
+The Financial Select Sector SPDR Fund (XLF)
+
+    10  
+
+The Financial Services Select Sector SPDR Fund (XLFS)
+
+    13  
+
+The Health Care Select Sector SPDR Fund (XLV)
+
+    14  
+
+The Industrial Select Sector SPDR Fund (XLI)
+
+    17  
+
+The Materials Select Sector SPDR Fund (XLB)
+
+    20  
+
+The Real Estate Select Sector SPDR Fund (XLRE)
+
+    23  
+
+The Technology Select Sector SPDR Fund (XLK)
+
+    24  
+
+The Utilities Select Sector SPDR Fund (XLU)
+
+    27  
+
+Schedules of Investments
+
+  
+
+The Consumer Discretionary Select Sector SPDR Fund (XLY)
+
+    30  
+
+The Consumer Staples Select Sector SPDR Fund (XLP)
+
+    32  
+
+The Energy Select Sector SPDR Fund (XLE)
+
+    33  
+
+The Financial Select Sector SPDR Fund (XLF)
+
+    34  
+
+The Financial Services Select Sector SPDR Fund (XLFS)
+
+    36  
+
+The Health Care Select Sector SPDR Fund (XLV)
+
+    38  
+
+The Industrial Select Sector SPDR Fund (XLI)
+
+    40  
+
+The Materials Select Sector SPDR Fund (XLB)
+
+    42  
+
+The Real Estate Select Sector SPDR Fund (XLRE)
+
+    43  
+
+The Technology Select Sector SPDR Fund (XLK)
+
+    44  
+
+The Utilities Select Sector SPDR Fund (XLU)
+
+    46  
+
+Financial Statements
+
+    48  
+
+Financial Highlights
+
+    57  
+
+Notes to Financial Statements
+
+    68  
+
+Other Information
+
+    80  
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+7/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE CONSUMER DISCRETIONARY SELECT SECTOR SPDR FUND —
+PERFORMANCE SUMMARY
+
+The following performance chart of the Fund’s total return at net asset value, the total return based on market price and its
+benchmark index is provided for comparative purposes only and represents the periods noted. The Fund’s per share net
+asset value (“NAV”) is the value of one share of the Fund and is calculated by dividing the value of total assets less total
+liabilities by the number of shares outstanding. The NAV return is based on the NAV of the Fund and the market return is
+based on the market price per share of the Fund. The market price used to calculate the market return is determined by using
+the midpoint between the highest bid and the lowest offer on the exchange on which the shares of the Fund are listed for
+trading, as of the time that the Fund’s NAV is calculated. NAV and market returns assume that dividends and capital gain
+distributions have been reinvested in the Fund at NAV. Market returns do not include brokerage commissions that may be
+payable on secondary market transactions. If brokerage commissions were included, market returns would be lower.
+An index is a statistical measure of a specified financial market or sector. An index does not actually hold a portfolio of
+securities and therefore does not reflect deductions for fees or expenses. In comparison, the Fund’s performance is
+negatively impacted by these deductions.
+Performance quoted represents past performance and past performance does not guarantee future results. Current
+performance may be higher or lower than the performance quoted. For the most recent month end performance
+information visit www.sectorspdrs.com. Investment in the Fund poses investment risk including the possible loss of
+principal. The investment return and principal value of an investment will fluctuate, so that shares, when redeemed,
+may be worth more or less than their original cost. The returns do not reflect the deduction of taxes that a shareholder
+would pay on Fund distributions or on the redemption or sale of Fund shares. The total expense ratio for The Consumer
+Discretionary Select Sector SPDR Fund as stated in the Fees and Expenses table of the prospectus dated January 31,
+2016 is 0.14%. Fund returns at Net Asset Value shown in the table below for the Five years and Ten years reflect the
+impact of a fee waiver and without this waiver returns would have been lower.
+PERFORMANCE AS OF MARCH 31, 2016
+ 
+        
+       
+       
+
+      
+      
+           
+      
+      
+      
+CUMULATIVE TOTAL RETURN
+        
+AVERAGE ANNUAL TOTAL RETURN
+      
+CONSUMER
+CONSUMER
+NET ASSET
+MARKET
+DISCRETIONARY
+NET ASSET
+MARKET
+DISCRETIONARY
+ 
+VALUE    
+VALUE     SELECT SECTOR INDEX*        
+VALUE     VALUE     SELECT SECTOR INDEX*      
+
+    
+    
+    
+    
+    
+
+    7.37%      7.43%     
+    6.58%      6.60%     
+    55.66%      55.77%     
+   118.26%     118.23%     
+   172.42%     172.34%     
+
+SIX MONTHS
+ONE YEAR
+THREE YEARS
+FIVE YEARS
+
+TEN YEARS
+        
+ 
+
+ 
+
+ 
+
+*
+
+    
+ 
+
+  
+
+    
+
+7.49%   
+6.75%   
+56.54%   
+120.49%   
+177.28%   
+
+    
+
+   
+
+ 
+ 
+ 
+ 
+ 
+
+  
+  
+  
+  
+  
+
+      
+
+N/A         N/A        
+6.58%      6.60%     
+15.89%     15.92%     
+16.89%     16.89%     
+10.54%     10.54%     
+    
+
+    
+
+N/A      
+6.75%   
+16.11%   
+17.13%   
+10.74%   
+
+ 
+ 
+ 
+ 
+ 
+
+   
+
+ 
+
+The Consumer Discretionary Select Sector Index is intended to give investors an efficient, modified market capitalization­based way to track the
+movements of certain public companies that are components of the S&P 500 and are involved in the development and production of consumer discretionary
+products.
+
+1
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+8/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE CONSUMER DISCRETIONARY SELECT SECTOR SPDR FUND —
+PERFORMANCE SUMMARY (CONTINUED)
+
+ 
+
+COMPARISON OF CHANGE IN VALUE OF A $10,000 INVESTMENT (BASED ON NET ASSET VALUE)
+
+Past performance is no guarantee of future results.
+
+ 
+
+Index returns are unmanaged and do not reflect the deduction of any fees or expenses. Index returns reflect all items of income, gain and loss and the
+reinvestment of dividends and other income.
+
+2
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+9/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE CONSUMER DISCRETIONARY SELECT SECTOR SPDR FUND —
+PORTFOLIO SUMMARY
+TOP FIVE HOLDINGS AS OF MARCH 31, 2016
+
+ 
+     
+
+     DESCRIPTION
+
+  AMAZON.COM, INC.
+
+    
+HOME
+  DEPOT, INC.
+
+    
+    
+
+ $1,065,780,888
+ 9.9
+
+ 786,624,957
+ 7.3
+
+ 693,022,421
+ 6.4
+
+ 690,949,787
+ 6.4
+
+ 526,764,092
+ 4.9
+
+   
+   
+
+    
+
+    
+
+    
+
+    
+
+    
+
+ 
+
+     
+
+  
+
+MARKET VALUE
+% OF NET ASSETS
+  
+
+    
+
+    
+WALT
+  DISNEY CO.
+
+    
+COMCAST CORP.
+  CLASS A
+
+    
+MCDONALD’S
+  CORP.
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+(The five largest holdings are subject to change, and there are no guarantees the Fund will continue to remain invested in any particular company.)
+
+INDUSTRY BREAKDOWN AS OF MARCH 31, 2016*
+
+ 
+ 
+
+ 
+
+*   The Fund’s industry breakdown is expressed as a percentage of total common stock and may change over time.
+
+3
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+10/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE CONSUMER STAPLES SELECT SECTOR SPDR FUND —
+PERFORMANCE SUMMARY
+
+The following performance chart of the Fund’s total return at net asset value, the total return based on market price and its
+benchmark index is provided for comparative purposes only and represents the periods noted. The Fund’s per share net
+asset value (“NAV”) is the value of one share of the Fund and is calculated by dividing the value of total assets less total
+liabilities by the number of shares outstanding. The NAV return is based on the NAV of the Fund and the market return is
+based on the market price per share of the Fund. The market price used to calculate the market return is determined by using
+the midpoint between the highest bid and the lowest offer on the exchange on which the shares of the Fund are listed for
+trading, as of the time that the Fund’s NAV is calculated. NAV and market returns assume that dividends and capital gain
+distributions have been reinvested in the Fund at NAV. Market returns do not include brokerage commissions that may be
+payable on secondary market transactions. If brokerage commissions were included, market returns would be lower.
+An index is a statistical measure of a specified financial market or sector. An index does not actually hold a portfolio of
+securities and therefore does not reflect deductions for fees or expenses. In comparison, the Fund’s performance is
+negatively impacted by these deductions.
+Performance quoted represents past performance and past performance does not guarantee future results. Current
+performance may be higher or lower than the performance quoted. For the most recent month end performance
+information visit www.sectorspdrs.com. Investment in the Fund poses investment risk including the possible loss of
+principal. The investment return and principal value of an investment will fluctuate, so that shares, when redeemed,
+may be worth more or less than their original cost. The returns do not reflect the deduction of taxes that a shareholder
+would pay on Fund distributions or on the redemption or sale of Fund shares. The total expense ratio for The Consumer
+Staples Select Sector SPDR Fund as stated in the Fees and Expenses table of the prospectus dated January 31, 2016
+is 0.14%. Fund returns at Net Asset Value shown in the table below for the Five years and Ten years reflect the impact
+of a fee waiver and without this waiver returns would have been lower.
+PERFORMANCE AS OF MARCH 31, 2016
+ 
+        
+       
+       
+
+      
+      
+           
+      
+      
+      
+CUMULATIVE TOTAL RETURN
+        
+AVERAGE ANNUAL TOTAL RETURN
+      
+CONSUMER
+CONSUMER
+NET ASSET
+MARKET
+STAPLES SELECT
+NET ASSET
+MARKET
+STAPLES SELECT
+ 
+VALUE    
+VALUE     SECTOR INDEX*         
+VALUE     VALUE     SECTOR INDEX*       
+
+    
+    
+    
+    
+    
+
+    13.73%      13.78%     
+    11.52%      11.52%     
+    44.03%      44.09%     
+   102.89%     102.88%     
+   191.30%     191.18%     
+
+SIX MONTHS
+ONE YEAR
+THREE YEARS
+FIVE YEARS
+
+TEN YEARS
+        
+ 
+
+ 
+
+ 
+
+*
+
+    
+ 
+
+  
+
+    
+
+    
+
+13.88%   
+11.71%   
+44.89%   
+105.11%   
+197.46%   
+   
+
+ 
+ 
+ 
+ 
+ 
+
+  
+  
+  
+  
+  
+
+      
+
+N/A         N/A        
+11.52%     11.52%     
+12.93%     12.95%     
+15.20%     15.20%     
+11.28%     11.28%     
+    
+
+    
+
+N/A      
+11.71%   
+13.15%   
+15.44%   
+11.52%   
+
+ 
+ 
+ 
+ 
+ 
+
+   
+
+ 
+
+The Consumer Staples Select Sector Index is intended to give investors an efficient, modified market capitalization­based way to track the movements of
+certain public companies that are components of the S&P 500 and are involved in the development and production of consumer products.
+
+4
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+11/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE CONSUMER STAPLES SELECT SECTOR SPDR FUND —
+PERFORMANCE SUMMARY (CONTINUED)
+
+ 
+
+COMPARISON OF CHANGE IN VALUE OF A $10,000 INVESTMENT (BASED ON NET ASSET VALUE)
+
+Past performance is no guarantee of future results.
+
+ 
+
+Index returns are unmanaged and do not reflect the deduction of any fees or expenses. Index returns reflect all items of income, gain and loss and the
+reinvestment of dividends and other income.
+
+5
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+12/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE CONSUMER STAPLES SELECT SECTOR SPDR FUND —
+PORTFOLIO SUMMARY
+TOP FIVE HOLDINGS AS OF MARCH 31, 2016
+
+ 
+     
+
+    
+
+     DESCRIPTION
+
+    
+PROCTER &
+  GAMBLE CO.
+
+    
+    
+
+ $1,193,014,145
+ 11.5
+    
+
+     
+
+  
+
+MARKET VALUE
+% OF NET ASSETS
+  
+
+    
+
+ COCA­COLA CO.
+
+    
+PHILIP MORRIS
+  INTERNATIONAL, INC.
+
+ 
+
+  
+
+ CVS HEALTH CORP.
+
+    
+ALTRIA
+  GROUP, INC.
+
+ 987,204,993
+ 9.6
+
+ 830,065,934
+ 8.0
+
+ 
+
+  
+
+ 640,054,451
+ 6.2
+
+ 605,665,106
+ 5.9
+
+   
+   
+
+    
+
+    
+
+    
+
+    
+
+ 
+
+ 
+
+(The five largest holdings are subject to change, and there are no guarantees the Fund will continue to remain invested in any particular company.)
+
+INDUSTRY BREAKDOWN AS OF MARCH 31, 2016*
+
+ 
+ 
+
+ 
+
+*   The Fund’s industry breakdown is expressed as a percentage of total common stock and may change over time.
+
+6
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+13/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE ENERGY SELECT SECTOR SPDR FUND —
+PERFORMANCE SUMMARY
+
+The following performance chart of the Fund’s total return at net asset value, the total return based on market price and its
+benchmark index is provided for comparative purposes only and represents the periods noted. The Fund’s per share net
+asset value (“NAV”) is the value of one share of the Fund and is calculated by dividing the value of total assets less total
+liabilities by the number of shares outstanding. The NAV return is based on the NAV of the Fund and the market return is
+based on the market price per share of the Fund. The market price used to calculate the market return is determined by using
+the midpoint between the highest bid and the lowest offer on the exchange on which the shares of the Fund are listed for
+trading, as of the time that the Fund’s NAV is calculated. NAV and market returns assume that dividends and capital gain
+distributions have been reinvested in the Fund at NAV. Market returns do not include brokerage commissions that may be
+payable on secondary market transactions. If brokerage commissions were included, market returns would be lower.
+An index is a statistical measure of a specified financial market or sector. An index does not actually hold a portfolio of
+securities and therefore does not reflect deductions for fees or expenses. In comparison, the Fund’s performance is
+negatively impacted by these deductions.
+Performance quoted represents past performance and past performance does not guarantee future results. Current
+performance may be higher or lower than the performance quoted. For the most recent month end performance
+information visit www.sectorspdrs.com. Investment in the Fund poses investment risk including the possible loss of
+principal. The investment return and principal value of an investment will fluctuate, so that shares, when redeemed,
+may be worth more or less than their original cost. The returns do not reflect the deduction of taxes that a shareholder
+would pay on Fund distributions or on the redemption or sale of Fund shares. The total expense ratio for The Energy
+Select Sector SPDR Fund as stated in the Fees and Expenses table of the prospectus dated January 31, 2016 is 0.14%.
+Fund returns at Net Asset Value shown in the table below for the Five years and Ten years reflect the impact of a fee
+waiver and without this waiver returns would have been lower.
+PERFORMANCE AS OF MARCH 31, 2016
+ 
+        
+       
+
+ 
+
+ 
+
+ 
+
+       
+
+    
+      
+      
+           
+      
+      
+      
+ 
+CUMULATIVE TOTAL RETURN
+        
+AVERAGE ANNUAL TOTAL RETURN
+      
+NET ASSET
+MARKET
+ENERGY SELECT
+NET ASSET
+MARKET
+ENERGY SELECT
+ 
+VALUE    
+VALUE     SECTOR INDEX*         
+VALUE    
+VALUE     SECTOR INDEX*       
+
+    SIX MONTHS
+    ONE YEAR
+    THREE YEARS
+    FIVE YEARS
+    TEN YEARS
+
+   2.74%     2.81%    
+  (17.46)%    (17.44)%    
+  (16.12)%    (16.06)%    
+  (13.59)%    (13.60)%    
+   36.66%     36.85%    
+
+        
+
+  
+
+*
+
+    
+
+    
+
+2.74%     
+(17.55)%     
+(15.95)%     
+(13.15)%     
+38.83%     
+
+  
+N/A       
+N/A       
+  (17.46)%    (17.44)%    
+   (5.69)%     (5.67)%    
+   (2.88)%     (2.88)%    
+   3.17%     3.19%    
+
+          
+
+    
+
+    
+
+N/A        
+(17.55)%     
+(5.63)%     
+(2.78)%     
+3.34%     
+    
+
+The Energy Select Sector Index is intended to give investors an efficient, modified market capitalization­based way to track the movements of certain
+public companies that are components of the S&P 500 and are involved in the development and production of energy products.
+
+7
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+14/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE ENERGY SELECT SECTOR SPDR FUND —
+PERFORMANCE SUMMARY (CONTINUED)
+
+ 
+
+COMPARISON OF CHANGE IN VALUE OF A $10,000 INVESTMENT (BASED ON NET ASSET VALUE)
+
+Past performance is no guarantee of future results.
+
+ 
+
+Index returns are unmanaged and do not reflect the deduction of any fees or expenses. Index returns reflect all items of income, gain and loss and the
+reinvestment of dividends and other income.
+
+8
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+15/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE ENERGY SELECT SECTOR SPDR FUND —
+PORTFOLIO SUMMARY
+TOP FIVE HOLDINGS AS OF MARCH 31, 2016
+
+ 
+     
+
+  
+
+    
+
+    
+
+    
+
+    
+
+DESCRIPTION
+
+  EXXON MOBIL CORP.
+
+  CHEVRON CORP.
+
+    
+    
+
+MARKET VALUE
+
+  $2,422,864,007
+  18.9
+
+  1,897,768,636
+  14.8
+
+    
+
+    
+
+     
+
+% OF NET ASSETS
+  
+
+    
+EOG RESOURCES,
+  INC.
+
+ 
+
+  
+
+  SCHLUMBERGER, LTD.
+
+    
+PIONEER NATURAL
+  RESOURCES CO.
+
+ 
+
+  
+
+  997,740,814
+  7.8
+
+  538,767,920
+  4.2
+
+  503,564,830
+  3.9
+
+ 
+ 
+
+ 
+ 
+
+    
+
+    
+
+    
+
+ 
+
+ 
+
+(The five largest holdings are subject to change, and there are no guarantees the Fund will continue to remain invested in any particular company.)
+
+INDUSTRY BREAKDOWN AS OF MARCH 31, 2016*
+
+ 
+ 
+
+ 
+
+*   The Fund’s industry breakdown is expressed as a percentage of total common stock and may change over time.
+
+9
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+16/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE FINANCIAL SELECT SECTOR SPDR FUND —
+PERFORMANCE SUMMARY
+
+The following performance chart of the Fund’s total return at net asset value, the total return based on market price and its
+benchmark index is provided for comparative purposes only and represents the periods noted. The Fund’s per share net
+asset value (“NAV”) is the value of one share of the Fund and is calculated by dividing the value of total assets less total
+liabilities by the number of shares outstanding. The NAV return is based on the NAV of the Fund and the market return is
+based on the market price per share of the Fund. The market price used to calculate the market return is determined by using
+the midpoint between the highest bid and the lowest offer on the exchange on which the shares of the Fund are listed for
+trading, as of the time that the Fund’s NAV is calculated. NAV and market returns assume that dividends and capital gain
+distributions have been reinvested in the Fund at NAV. Market returns do not include brokerage commissions that may be
+payable on secondary market transactions. If brokerage commissions were included, market returns would be lower.
+An index is a statistical measure of a specified financial market or sector. An index does not actually hold a portfolio of
+securities and therefore does not reflect deductions for fees or expenses. In comparison, the Fund’s performance is
+negatively impacted by these deductions.
+Performance quoted represents past performance and past performance does not guarantee future results. Current
+performance may be higher or lower than the performance quoted. For the most recent month end performance
+information visit www.sectorspdrs.com. Investment in the Fund poses investment risk including the possible loss of
+principal. The investment return and principal value of an investment will fluctuate, so that shares, when redeemed,
+may be worth more or less than their original cost. The returns do not reflect the deduction of taxes that a shareholder
+would pay on Fund distributions or on the redemption or sale of Fund shares. The total expense ratio for The Financial
+Select Sector SPDR Fund as stated in the Fees and Expenses table of the prospectus dated January 31, 2016 is 0.14%.
+Fund returns at Net Asset Value shown in the table below for the Five years and Ten years reflect the impact of a fee
+waiver and without this waiver returns would have been lower.
+PERFORMANCE AS OF MARCH 31, 2016
+ 
+        
+       
+       
+
+    
+      
+      
+           
+      
+      
+      
+ 
+CUMULATIVE TOTAL RETURN
+        
+AVERAGE ANNUAL TOTAL RETURN
+      
+NET ASSET
+MARKET
+FINANCIAL SELECT
+NET ASSET
+MARKET
+FINANCIAL SELECT
+ 
+VALUE    
+VALUE     SECTOR INDEX*         
+VALUE     VALUE     SECTOR INDEX*       
+
+    
+    
+    
+    
+    
+
+    0.51%      0.54%     
+    (4.62)%      (4.67)%     
+    30.60%      30.60%     
+    50.33%      50.27%     
+   (14.62)%     (14.69)%     
+
+SIX MONTHS
+ONE YEAR
+THREE YEARS
+FIVE YEARS
+
+TEN YEARS
+        
+ 
+
+ 
+
+ 
+
+*
+
+  
+
+    
+
+    
+
+0.60%   
+(4.55)%   
+31.11%   
+51.46%   
+(13.72)%   
+   
+
+ 
+ 
+ 
+ 
+ 
+
+    N/A         N/A        
+    (4.62)%     (4.67)%     
+    9.31%      9.31%     
+    8.50%      8.49%     
+    (1.57)%     (1.58)%     
+
+      
+
+    
+
+    
+
+N/A      
+(4.55)%   
+9.45%   
+8.66%   
+(1.47)%   
+
+ 
+ 
+ 
+ 
+ 
+
+   
+
+ 
+
+The Financial Select Sector Index is intended to give investors an efficient, modified market capitalization­based way to track the movements of certain
+public companies that are components of the S&P 500 and are involved in the development and production of financial products.
+
+10
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+17/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE FINANCIAL SELECT SECTOR SPDR FUND —
+PERFORMANCE SUMMARY (CONTINUED)
+
+ 
+
+COMPARISON OF CHANGE IN VALUE OF A $10,000 INVESTMENT (BASED ON NET ASSET VALUE)
+
+Past performance is no guarantee of future results.
+
+ 
+
+Index returns are unmanaged and do not reflect the deduction of any fees or expenses. Index returns reflect all items of income, gain and loss and the
+reinvestment of dividends and other income.
+
+11
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+18/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE FINANCIAL SELECT SECTOR SPDR FUND —
+PORTFOLIO SUMMARY
+TOP FIVE HOLDINGS AS OF MARCH 31, 2016
+
+ 
+     
+
+    
+
+    
+
+    
+
+    
+
+ 
+
+  
+
+     DESCRIPTION
+
+    
+BERKSHIRE
+HATHAWAY, INC.
+  CLASS B
+
+ WELLS FARGO & CO.
+
+JPMORGAN
+  CHASE & CO.
+
+BANK OF
+  AMERICA CORP.
+
+  CITIGROUP, INC.
+
+ 
+
+  
+
+    
+    
+
+ $1,511,899,528
+ 9.4
+
+ 1,270,780,819
+ 7.9
+
+ 1,236,280,865
+ 7.7
+
+ 794,074,013
+ 5.0
+
+ 700,124,537
+ 4.4
+
+   
+   
+
+    
+
+    
+
+    
+
+    
+
+    
+
+ 
+
+     
+
+  
+
+MARKET VALUE
+% OF NET ASSETS
+  
+
+ 
+
+(The five largest holdings are subject to change, and there are no guarantees the Fund will continue to remain invested in any particular company.)
+
+INDUSTRY BREAKDOWN AS OF MARCH 31, 2016*
+
+ 
+ 
+
+ 
+
+*   The Fund’s industry breakdown is expressed as a percentage of total common stock and may change over time.
+
+12
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+19/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE FINANCIAL SERVICES SELECT SECTOR SPDR FUND —
+PORTFOLIO SUMMARY
+
+ 
+
+The Fund had less than six months of operations at reporting period end and therefore does not have performance history to
+provide in this report.
+
+TOP FIVE HOLDINGS AS OF MARCH 31, 2016
+ 
+     
+
+  
+
+    
+
+DESCRIPTION
+
+    
+    
+
+MARKET VALUE
+
+     
+
+% OF NET ASSETS
+  
+
+    
+BERKSHIRE
+HATHAWAY, INC.
+  CLASS B
+
+    
+
+    
+
+    
+
+    
+
+ 
+
+  
+
+  WELLS FARGO & CO.
+
+JPMORGAN
+  CHASE & CO.
+
+BANK OF
+  AMERICA CORP.
+
+  CITIGROUP, INC.
+
+ 
+
+  
+
+  $1,497,543
+  11.7
+
+  1,258,666
+  9.8
+
+  1,224,492
+  9.6
+
+  786,512
+  6.1
+
+  693,468
+  5.4
+
+ 
+ 
+
+ 
+ 
+
+    
+
+    
+
+    
+
+    
+
+    
+
+ 
+
+ 
+
+(The five largest holdings are subject to change, and there are no guarantees the Fund will continue to remain invested in any particular company.)
+
+INDUSTRY BREAKDOWN AS OF MARCH 31, 2016*
+
+ 
+ 
+
+ 
+
+*   The Fund’s industry breakdown is expressed as a percentage of total common stock and may change over time.
+
+13
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+20/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE HEALTH CARE SELECT SECTOR SPDR FUND —
+PERFORMANCE SUMMARY
+
+The following performance chart of the Fund’s total return at net asset value, the total return based on market price and its
+benchmark index is provided for comparative purposes only and represents the periods noted. The Fund’s per share net
+asset value (“NAV”) is the value of one share of the Fund and is calculated by dividing the value of total assets less total
+liabilities by the number of shares outstanding. The NAV return is based on the NAV of the Fund and the market return is
+based on the market price per share of the Fund. The market price used to calculate the market return is determined by using
+the midpoint between the highest bid and the lowest offer on the exchange on which the shares of the Fund are listed for
+trading, as of the time that the Fund’s NAV is calculated. NAV and market returns assume that dividends and capital gain
+distributions have been reinvested in the Fund at NAV. Market returns do not include brokerage commissions that may be
+payable on secondary market transactions. If brokerage commissions were included, market returns would be lower.
+An index is a statistical measure of a specified financial market or sector. An index does not actually hold a portfolio of
+securities and therefore does not reflect deductions for fees or expenses. In comparison, the Fund’s performance is
+negatively impacted by these deductions.
+Performance quoted represents past performance and past performance does not guarantee future results. Current
+performance may be higher or lower than the performance quoted. For the most recent month end performance
+information visit www.sectorspdrs.com. Investment in the Fund poses investment risk including the possible loss of
+principal. The investment return and principal value of an investment will fluctuate, so that shares, when redeemed,
+may be worth more or less than their original cost. The returns do not reflect the deduction of taxes that a shareholder
+would pay on Fund distributions or on the redemption or sale of Fund shares. The total expense ratio for The Health
+Care Select Sector SPDR Fund as stated in the Fees and Expenses table of the prospectus dated January 31, 2016 is
+0.14%. Fund returns at Net Asset Value shown in the table below for the Five years and Ten years reflect the impact of a
+fee waiver and without this waiver returns would have been lower.
+PERFORMANCE AS OF MARCH 31, 2016
+ 
+        
+       
+       
+
+      
+      
+           
+      
+      
+      
+CUMULATIVE TOTAL RETURN
+        
+AVERAGE ANNUAL TOTAL RETURN
+      
+HEALTH CARE
+HEALTH CARE
+NET ASSET
+MARKET
+SELECT SECTOR
+NET ASSET
+MARKET
+SELECT SECTOR
+ 
+VALUE    
+VALUE    
+INDEX*
+        
+VALUE     VALUE    
+INDEX*
+      
+
+    
+    
+    
+    
+    
+
+    3.06%      3.18%     
+    (5.31)%      (5.30)%     
+    54.23%      54.30%     
+   123.22%     123.15%     
+   152.92%     152.89%     
+
+SIX MONTHS
+ONE YEAR
+THREE YEARS
+FIVE YEARS
+
+TEN YEARS
+        
+ 
+
+ 
+
+ 
+
+*
+
+    
+ 
+
+  
+
+    
+
+    
+
+3.16%   
+(5.21)%   
+54.94%   
+125.32%   
+157.64%   
+
+ 
+ 
+ 
+ 
+ 
+
+    N/A         N/A        
+    (5.31)%     (5.30)%     
+    15.54%      15.55%     
+    17.42%      17.41%     
+    9.72%      9.72%     
+
+          
+
+    
+
+    
+
+N/A      
+(5.21)%   
+15.72%   
+17.64%   
+9.93%   
+
+ 
+ 
+ 
+ 
+ 
+
+   
+
+ 
+
+The Health Care Select Sector Index is intended to give investors an efficient, modified market capitalization­based way to track the movements of certain
+public companies that are components of the S&P 500 and are health care related firms.
+
+14
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+21/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE HEALTH CARE SELECT SECTOR SPDR FUND —
+PERFORMANCE SUMMARY (CONTINUED)
+
+ 
+
+COMPARISON OF CHANGE IN VALUE OF A $10,000 INVESTMENT (BASED ON NET ASSET VALUE)
+
+Past performance is no guarantee of future results.
+
+ 
+
+Index returns are unmanaged and do not reflect the deduction of any fees or expenses. Index returns reflect all items of income, gain and loss and the
+reinvestment of dividends and other income.
+
+15
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+22/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE HEALTH CARE SELECT SECTOR SPDR FUND —
+PORTFOLIO SUMMARY
+TOP FIVE HOLDINGS AS OF MARCH 31, 2016
+
+ 
+     
+
+    
+
+    
+
+    
+
+     DESCRIPTION
+
+ JOHNSON & JOHNSON
+
+ PFIZER, INC.
+
+    
+    
+
+ $1,348,834,509
+ 11.6
+
+ 809,884,842
+ 6.9
+
+    
+
+    
+
+     
+
+  
+
+MARKET VALUE
+% OF NET ASSETS
+  
+
+    
+UNITEDHEALTH
+  GROUP, INC.
+
+ 
+
+  
+
+ MERCK & CO., INC.
+
+    
+GILEAD
+  SCIENCES, INC.
+
+ 
+
+  
+
+ 663,380,553
+ 5.7
+
+ 567,243,951
+ 4.9
+
+ 558,160,975
+ 4.8
+
+   
+   
+
+    
+
+    
+
+    
+
+ 
+
+ 
+
+(The five largest holdings are subject to change, and there are no guarantees the Fund will continue to remain invested in any particular company.)
+
+INDUSTRY BREAKDOWN AS OF MARCH 31, 2016*
+
+ 
+ 
+
+ 
+
+*   The Fund’s industry breakdown is expressed as a percentage of total common stock and may change over time.
+
+16
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+23/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE INDUSTRIAL SELECT SECTOR SPDR FUND —
+PERFORMANCE SUMMARY
+
+The following performance chart of the Fund’s total return at net asset value, the total return based on market price and its
+benchmark index is provided for comparative purposes only and represents the periods noted. The Fund’s per share net
+asset value (“NAV”) is the value of one share of the Fund and is calculated by dividing the value of total assets less total
+liabilities by the number of shares outstanding. The NAV return is based on the NAV of the Fund and the market return is
+based on the market price per share of the Fund. The market price used to calculate the market return is determined by using
+the midpoint between the highest bid and the lowest offer on the exchange on which the shares of the Fund are listed for
+trading, as of the time that the Fund’s NAV is calculated. NAV and market returns assume that dividends and capital gain
+distributions have been reinvested in the Fund at NAV. Market returns do not include brokerage commissions that may be
+payable on secondary market transactions. If brokerage commissions were included, market returns would be lower.
+An index is a statistical measure of a specified financial market or sector. An index does not actually hold a portfolio of
+securities and therefore does not reflect deductions for fees or expenses. In comparison, the Fund’s performance is
+negatively impacted by these deductions.
+Performance quoted represents past performance and past performance does not guarantee future results. Current
+performance may be higher or lower than the performance quoted. For the most recent month end performance
+information visit www.sectorspdrs.com. Investment in the Fund poses investment risk including the possible loss of
+principal. The investment return and principal value of an investment will fluctuate, so that shares, when redeemed,
+may be worth more or less than their original cost. The returns do not reflect the deduction of taxes that a shareholder
+would pay on Fund distributions or on the redemption or sale of Fund shares. The total expense ratio for The Industrial
+Select Sector SPDR Fund as stated in the Fees and Expenses table of the prospectus dated January 31, 2016 is 0.14%.
+Fund returns at Net Asset Value shown in the table below for the Five years and Ten years reflect the impact of a fee
+waiver and without this waiver returns would have been lower.
+PERFORMANCE AS OF MARCH 31, 2016
+ 
+        
+       
+       
+
+    
+      
+      
+           
+      
+      
+      
+ 
+CUMULATIVE TOTAL RETURN
+        
+AVERAGE ANNUAL TOTAL RETURN
+      
+NET ASSET
+MARKET
+INDUSTRIAL SELECT
+NET ASSET
+MARKET
+INDUSTRIAL SELECT
+ 
+VALUE    
+VALUE     SECTOR INDEX*         
+VALUE     VALUE     SECTOR INDEX*       
+
+    
+    
+    
+    
+    
+
+    12.44%      12.45%     
+    1.62%      1.62%     
+    41.22%      41.27%     
+    63.65%      63.65%     
+   102.54%     102.23%     
+
+SIX MONTHS
+ONE YEAR
+THREE YEARS
+FIVE YEARS
+
+TEN YEARS
+        
+ 
+
+ 
+
+ 
+
+*
+
+  
+
+    
+
+    
+
+12.55%   
+1.71%   
+41.94%   
+65.01%   
+106.18%   
+
+ 
+ 
+ 
+ 
+ 
+
+  
+  
+  
+  
+  
+
+          
+
+N/A         N/A        
+1.62%      1.62%     
+12.19%     12.21%     
+10.35%     10.35%     
+7.31%      7.30%     
+    
+
+    
+
+N/A      
+1.71%   
+12.38%   
+10.54%   
+7.50%   
+
+ 
+ 
+ 
+ 
+ 
+
+   
+
+ 
+
+The Industrial Select Sector Index is intended to give investors an efficient, modified market capitalization­based way to track the movements of certain
+public companies that are components of the S&P 500 and are industrials.
+
+17
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+24/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE INDUSTRIAL SELECT SECTOR SPDR FUND —
+PERFORMANCE SUMMARY (CONTINUED)
+
+ 
+
+COMPARISON OF CHANGE IN VALUE OF A $10,000 INVESTMENT (BASED ON NET ASSET VALUE)
+
+Past performance is no guarantee of future results.
+
+ 
+
+Index returns are unmanaged and do not reflect the deduction of any fees or expenses. Index returns reflect all items of income, gain and loss and the
+reinvestment of dividends and other income.
+
+18
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+25/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE INDUSTRIAL SELECT SECTOR SPDR FUND —
+PORTFOLIO SUMMARY
+TOP FIVE HOLDINGS AS OF MARCH 31, 2016
+
+ 
+     
+
+     DESCRIPTION
+
+    
+GENERAL
+  ELECTRIC CO.
+
+    
+    
+
+ $776,740,806   365,670,868   321,601,988
+ 11.7
+  5.5
+  4.8
+
+  291,997,670   286,045,360
+  4.4
+  4.3
+
+   
+   
+
+    
+
+    
+
+ 
+
+     
+
+  
+
+MARKET VALUE
+% OF NET ASSETS
+  
+
+    
+  3M CO.
+
+    
+
+    
+HONEYWELL
+  INTERNATIONAL, INC.
+
+    
+
+    
+  BOEING CO.
+
+    
+UNITED
+  TECHNOLOGIES CORP.
+
+    
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+(The five largest holdings are subject to change, and there are no guarantees the Fund will continue to remain invested in any particular company.)
+
+INDUSTRY BREAKDOWN AS OF MARCH 31, 2016*
+
+ 
+ 
+
+ 
+
+*   The Fund’s industry breakdown is expressed as a percentage of total common stock and may change over time.
+
+19
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+26/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE MATERIALS SELECT SECTOR SPDR FUND —
+PERFORMANCE SUMMARY
+
+The following performance chart of the Fund’s total return at net asset value, the total return based on market price and its
+benchmark index is provided for comparative purposes only and represents the periods noted. The Fund’s per share net
+asset value (“NAV”) is the value of one share of the Fund and is calculated by dividing the value of total assets less total
+liabilities by the number of shares outstanding. The NAV return is based on the NAV of the Fund and the market return is
+based on the market price per share of the Fund. The market price used to calculate the market return is determined by using
+the midpoint between the highest bid and the lowest offer on the exchange on which the shares of the Fund are listed for
+trading, as of the time that the Fund’s NAV is calculated. NAV and market returns assume that dividends and capital gain
+distributions have been reinvested in the Fund at NAV. Market returns do not include brokerage commissions that may be
+payable on secondary market transactions. If brokerage commissions were included, market returns would be lower.
+An index is a statistical measure of a specified financial market or sector. An index does not actually hold a portfolio of
+securities and therefore does not reflect deductions for fees or expenses. In comparison, the Fund’s performance is
+negatively impacted by these deductions.
+Performance quoted represents past performance and past performance does not guarantee future results. Current
+performance may be higher or lower than the performance quoted. For the most recent month end performance
+information visit www.sectorspdrs.com. Investment in the Fund poses investment risk including the possible loss of
+principal. The investment return and principal value of an investment will fluctuate, so that shares, when redeemed,
+may be worth more or less than their original cost. The returns do not reflect the deduction of taxes that a shareholder
+would pay on Fund distributions or on the redemption or sale of Fund shares. The total expense ratio for The Materials
+Select Sector SPDR Fund as stated in the Fees and Expenses table of the prospectus dated January 31, 2016 is 0.14%.
+Fund returns at Net Asset Value shown in the table below for the Five years and Ten years reflect the impact of a fee
+waiver and without this waiver returns would have been lower.
+PERFORMANCE AS OF MARCH 31, 2016
+ 
+        
+       
+       
+
+    
+      
+      
+           
+      
+      
+      
+ 
+CUMULATIVE TOTAL RETURN
+        
+AVERAGE ANNUAL TOTAL RETURN
+      
+NET ASSET
+MARKET
+MATERIALS SELECT
+NET ASSET
+MARKET
+MATERIALS SELECT
+ 
+VALUE     VALUE     SECTOR INDEX*         
+VALUE     VALUE     SECTOR INDEX*       
+
+    
+    
+    
+    
+    
+
+    13.38%      13.40%     
+    (6.28)%     (6.25)%     
+    21.72%      21.77%     
+    24.85%      24.88%     
+    75.41%      75.12%     
+
+SIX MONTHS
+ONE YEAR
+THREE YEARS
+FIVE YEARS
+
+TEN YEARS
+        
+ 
+
+ 
+
+ 
+
+*
+
+  
+
+    
+
+    
+
+13.51%   
+(6.19)%   
+22.40%   
+25.92%   
+78.05%   
+
+ 
+ 
+ 
+ 
+ 
+
+    N/A         N/A        
+    (6.28)%     (6.25)%     
+    6.77%      6.79%     
+    4.54%      4.54%     
+    5.78%      5.76%     
+
+          
+
+    
+
+    
+
+N/A      
+(6.19)%   
+6.97%   
+4.72%   
+5.94%   
+
+ 
+ 
+ 
+ 
+ 
+
+     
+
+The Materials Select Sector Index is intended to give investors an efficient, modified market capitalization­based way to track the movements of certain
+public companies that are components of the S&P 500 and are in basic industries.
+
+20
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+27/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE MATERIALS SELECT SECTOR SPDR FUND —
+PERFORMANCE SUMMARY (CONTINUED)
+
+ 
+
+COMPARISON OF CHANGE IN VALUE OF A $10,000 INVESTMENT (BASED ON NET ASSET VALUE)
+
+Past performance is no guarantee of future results.
+
+ 
+
+Index returns are unmanaged and do not reflect the deduction of any fees or expenses. Index returns reflect all items of income, gain and loss and the
+reinvestment of dividends and other income.
+
+21
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+28/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE MATERIALS SELECT SECTOR SPDR FUND —
+PORTFOLIO SUMMARY
+TOP FIVE HOLDINGS AS OF MARCH 31, 2016
+
+ 
+     
+
+  
+
+    
+
+    
+
+DESCRIPTION
+
+    
+    
+
+MARKET VALUE
+
+     
+
+% OF NET ASSETS
+  
+
+    
+
+    
+
+    
+
+ 
+
+  
+
+  DOW CHEMICAL CO.
+
+    
+E.I. DU PONT DE
+  NEMOURS & CO.
+
+  MONSANTO CO.
+
+  PRAXAIR, INC.
+
+  PPG INDUSTRIES, INC.
+
+ 
+
+  
+
+ $267,656,701
+ 11.2
+
+  260,012,816
+  10.8
+
+  182,006,452
+  7.6
+
+  153,565,805
+  6.4
+
+  140,100,564
+  5.8
+
+ 
+ 
+
+ 
+ 
+
+    
+
+    
+
+    
+
+    
+
+    
+
+ 
+
+ 
+
+(The five largest holdings are subject to change, and there are no guarantees the Fund will continue to remain invested in any particular company.)
+
+INDUSTRY BREAKDOWN AS OF MARCH 31, 2016*
+
+ 
+ 
+
+ 
+
+*   The Fund’s industry breakdown is expressed as a percentage of total common stock and may change over time.
+
+22
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+29/114
+
+6/3/2016
+
+SELECT SECTOR SPDR TRUST
+
+Table of Contents
+
+ 
+
+THE REAL ESTATE SELECT SECTOR SPDR FUND —
+PORTFOLIO SUMMARY
+
+ 
+
+The Fund had less than six months of operations at reporting period end and therefore does not have performance history to
+provide in this report.
+
+TOP FIVE HOLDINGS AS OF MARCH 31, 2016
+ 
+     
+
+  
+
+    
+
+DESCRIPTION
+
+    
+    
+
+MARKET VALUE
+
+     
+
+% OF NET ASSETS
+  
+
+    
+SIMON PROPERTY
+  GROUP, INC.
+
+    
+    
+AMERICAN
+  TOWER CORP.   PUBLIC STORAGE
+
+    
+CROWN CASTLE
+  INTERNATIONAL CORP.
+
+    
+ 
+EQUITY
+  RESIDENTIAL  
+
+  
+
+  $1,322,155
+  11.8
+
+  892,871
+  7.9
+
+  835,765
+  7.4
+
+  594,082
+  5.3
+
+  563,775
+  5.0
+
+ 
+ 
+
+ 
+ 
+
+    
+
+    
+
+    
+
+    
+
+    
+
+ 
+
+ 
+
+  
+
+(The five largest holdings are subject to change, and there are no guarantees the Fund will continue to remain invested in any particular company.)
+
+INDUSTRY BREAKDOWN AS OF MARCH 31, 2016*
+
+ 
+ 
+
+ 
+
+*   The Fund’s industry breakdown is expressed as a percentage of total common stock and may change over time.
+
+23
+
+http://www.sec.gov/Archives/edgar/data/1064641/000119312516612173/d119366dncsrs.htm
+
+30/114
+
+
